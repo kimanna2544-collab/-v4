@@ -1,0 +1,6032 @@
+[
+  {
+    "id": 1,
+    "question": "The marketing team is responsible for _____ the new product.",
+    "options": [
+      "promote",
+      "promoting",
+      "promotion",
+      "promoted"
+    ],
+    "answer": 1,
+    "category": "동명사",
+    "explanation": "전치사 for 뒤에는 동명사(-ing)가 와요.",
+    "translation": "마케팅팀은 신제품 홍보를 담당합니다.",
+    "detail": "be responsible for는 ~을 담당하다라는 고정 표현이야. for는 전치사이므로 뒤에 동사원형 promote가 아니라 동명사 promoting이 와야 해.",
+    "optionExplanations": [
+      "이 문장에서는 전치사 for 뒤에는 동명사(-ing)가 와요. 따라서 promote는 정답이 아니야.",
+      "정답: 전치사 for 뒤에는 동명사(-ing)가 와요.",
+      "이 문장에서는 전치사 for 뒤에는 동명사(-ing)가 와요. 따라서 promotion는 정답이 아니야.",
+      "이 문장에서는 전치사 for 뒤에는 동명사(-ing)가 와요. 따라서 promoted는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 2,
+    "question": "All employees must submit their reports _____ Friday.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "마감 기한은 by + 시점을 사용해요.",
+    "translation": "모든 직원은 금요일까지 보고서를 제출해야 합니다.",
+    "detail": "submit이라는 제출 동작이 금요일까지 완료되어야 하므로 마감 시점을 뜻하는 by가 맞아. until은 그때까지 상태나 행동이 계속될 때 주로 사용해.",
+    "optionExplanations": [
+      "이 문장에서는 마감 기한은 by + 시점을 사용해요. 따라서 until는 정답이 아니야.",
+      "정답: 마감 기한은 by + 시점을 사용해요.",
+      "이 문장에서는 마감 기한은 by + 시점을 사용해요. 따라서 during는 정답이 아니야.",
+      "이 문장에서는 마감 기한은 by + 시점을 사용해요. 따라서 since는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 3,
+    "question": "The new software is _____ more efficient than the previous version.",
+    "options": [
+      "significant",
+      "significance",
+      "significantly",
+      "signify"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "비교급 more efficient를 강조하는 부사가 필요해요.",
+    "translation": "새 소프트웨어는 이전 버전보다 훨씬 더 효율적입니다.",
+    "detail": "more efficient는 형용사 비교급 표현이야. 이를 수식하려면 부사 significantly가 필요해. significant는 형용사라서 이 자리에 직접 올 수 없어.",
+    "optionExplanations": [
+      "이 문장에서는 비교급 more efficient를 강조하는 부사가 필요해요. 따라서 significant는 정답이 아니야.",
+      "이 문장에서는 비교급 more efficient를 강조하는 부사가 필요해요. 따라서 significance는 정답이 아니야.",
+      "정답: 비교급 more efficient를 강조하는 부사가 필요해요.",
+      "이 문장에서는 비교급 more efficient를 강조하는 부사가 필요해요. 따라서 signify는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Please contact the manager if you have _____ questions.",
+    "options": [
+      "any",
+      "much",
+      "every",
+      "each"
+    ],
+    "answer": 0,
+    "category": "한정사",
+    "explanation": "복수 가산명사 questions 앞에 any가 자연스러워요.",
+    "translation": "질문이 있다면 관리자에게 연락하세요.",
+    "detail": "questions는 셀 수 있는 복수명사야. 조건절에서 어떤 질문이라도라는 뜻을 만들 때 any questions가 자연스러워. much는 불가산명사와 사용해.",
+    "optionExplanations": [
+      "정답: 복수 가산명사 questions 앞에 any가 자연스러워요.",
+      "이 문장에서는 복수 가산명사 questions 앞에 any가 자연스러워요. 따라서 much는 정답이 아니야.",
+      "이 문장에서는 복수 가산명사 questions 앞에 any가 자연스러워요. 따라서 every는 정답이 아니야.",
+      "이 문장에서는 복수 가산명사 questions 앞에 any가 자연스러워요. 따라서 each는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 5,
+    "question": "The contract will be renewed _____ both parties agree.",
+    "options": [
+      "unless",
+      "provided that",
+      "despite",
+      "because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "provided that은 ~라는 조건으로라는 뜻이에요.",
+    "translation": "양측이 동의한다는 조건으로 계약이 갱신됩니다.",
+    "detail": "both parties agree는 주어와 동사를 갖춘 절이야. provided that은 ~라는 조건으로라는 의미의 접속사라서 계약 갱신 조건을 연결해.",
+    "optionExplanations": [
+      "이 문장에서는 provided that은 ~라는 조건으로라는 뜻이에요. 따라서 unless는 정답이 아니야.",
+      "정답: provided that은 ~라는 조건으로라는 뜻이에요.",
+      "이 문장에서는 provided that은 ~라는 조건으로라는 뜻이에요. 따라서 despite는 정답이 아니야.",
+      "이 문장에서는 provided that은 ~라는 조건으로라는 뜻이에요. 따라서 because of는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 6,
+    "question": "The documents _____ yesterday are now available online.",
+    "options": [
+      "submit",
+      "submitting",
+      "submitted",
+      "submission"
+    ],
+    "answer": 2,
+    "category": "분사",
+    "explanation": "제출된 서류이므로 과거분사 submitted가 필요해요.",
+    "translation": "어제 제출된 서류를 온라인에서 볼 수 있습니다.",
+    "detail": "documents는 제출하는 주체가 아니라 제출되는 대상이야. 따라서 과거분사 submitted가 documents를 뒤에서 수식해.",
+    "optionExplanations": [
+      "이 문장에서는 제출된 서류이므로 과거분사 submitted가 필요해요. 따라서 submit는 정답이 아니야.",
+      "이 문장에서는 제출된 서류이므로 과거분사 submitted가 필요해요. 따라서 submitting는 정답이 아니야.",
+      "정답: 제출된 서류이므로 과거분사 submitted가 필요해요.",
+      "이 문장에서는 제출된 서류이므로 과거분사 submitted가 필요해요. 따라서 submission는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 7,
+    "question": "The director asked that the proposal _____ revised.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "being"
+    ],
+    "answer": 2,
+    "category": "동사원형",
+    "explanation": "요구를 나타내는 ask that 절에는 (should) + 동사원형을 써요.",
+    "translation": "이사는 제안서를 수정하도록 요청했습니다.",
+    "detail": "ask that + 주어 + (should) 동사원형은 요구를 표현하는 구조야. proposal이 수정되는 것이므로 be revised라는 수동태 동사원형이 필요해.",
+    "optionExplanations": [
+      "이 문장에서는 요구를 나타내는 ask that 절에는 (should) + 동사원형을 써요. 따라서 is는 정답이 아니야.",
+      "이 문장에서는 요구를 나타내는 ask that 절에는 (should) + 동사원형을 써요. 따라서 was는 정답이 아니야.",
+      "정답: 요구를 나타내는 ask that 절에는 (should) + 동사원형을 써요.",
+      "이 문장에서는 요구를 나타내는 ask that 절에는 (should) + 동사원형을 써요. 따라서 being는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 8,
+    "question": "The company has expanded _____ into overseas markets.",
+    "options": [
+      "success",
+      "successful",
+      "successfully",
+      "succeed"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "동사 expanded를 수식하므로 부사 successfully를 써요.",
+    "translation": "회사는 해외 시장에 성공적으로 진출했습니다.",
+    "detail": "expanded는 동사야. 확장이 어떻게 이루어졌는지를 설명하는 부사 successfully가 와야 해.",
+    "optionExplanations": [
+      "이 문장에서는 동사 expanded를 수식하므로 부사 successfully를 써요. 따라서 success는 정답이 아니야.",
+      "이 문장에서는 동사 expanded를 수식하므로 부사 successfully를 써요. 따라서 successful는 정답이 아니야.",
+      "정답: 동사 expanded를 수식하므로 부사 successfully를 써요.",
+      "이 문장에서는 동사 expanded를 수식하므로 부사 successfully를 써요. 따라서 succeed는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 9,
+    "question": "_____ the unexpected delay, the event began on time.",
+    "options": [
+      "Although",
+      "Despite",
+      "Because",
+      "Even though"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "뒤에 명사구가 오므로 전치사 Despite가 맞아요.",
+    "translation": "예상치 못한 지연에도 행사는 정시에 시작했습니다.",
+    "detail": "the unexpected delay는 주어와 동사가 없는 명사구야. despite는 명사구를 목적어로 취하는 전치사이므로 적절해. although는 절을 이끌어.",
+    "optionExplanations": [
+      "이 문장에서는 뒤에 명사구가 오므로 전치사 Despite가 맞아요. 따라서 Although는 정답이 아니야.",
+      "정답: 뒤에 명사구가 오므로 전치사 Despite가 맞아요.",
+      "이 문장에서는 뒤에 명사구가 오므로 전치사 Despite가 맞아요. 따라서 Because는 정답이 아니야.",
+      "이 문장에서는 뒤에 명사구가 오므로 전치사 Despite가 맞아요. 따라서 Even though는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Applicants should have at least three years of _____ experience.",
+    "options": [
+      "relevance",
+      "relevant",
+      "relevantly",
+      "relate"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 experience를 꾸미는 형용사 relevant가 필요해요.",
+    "translation": "지원자는 최소 3년의 관련 경력이 있어야 합니다.",
+    "detail": "experience는 명사이므로 앞에서 수식하는 형용사 relevant가 필요해. relevance는 명사, relevantly는 부사야.",
+    "optionExplanations": [
+      "이 문장에서는 명사 experience를 꾸미는 형용사 relevant가 필요해요. 따라서 relevance는 정답이 아니야.",
+      "정답: 명사 experience를 꾸미는 형용사 relevant가 필요해요.",
+      "이 문장에서는 명사 experience를 꾸미는 형용사 relevant가 필요해요. 따라서 relevantly는 정답이 아니야.",
+      "이 문장에서는 명사 experience를 꾸미는 형용사 relevant가 필요해요. 따라서 relate는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 11,
+    "question": "The meeting has been _____ until next Tuesday.",
+    "options": [
+      "postpone",
+      "postponing",
+      "postponed",
+      "postponement"
+    ],
+    "answer": 2,
+    "category": "수동태",
+    "explanation": "has been + 과거분사로 현재완료 수동태를 만들어요.",
+    "translation": "회의는 다음 주 화요일까지 연기되었습니다.",
+    "detail": "has been 다음에는 과거분사가 와서 현재완료 수동태를 완성해. 회의가 연기된 것이므로 postponed가 맞아.",
+    "optionExplanations": [
+      "이 문장에서는 has been + 과거분사로 현재완료 수동태를 만들어요. 따라서 postpone는 정답이 아니야.",
+      "이 문장에서는 has been + 과거분사로 현재완료 수동태를 만들어요. 따라서 postponing는 정답이 아니야.",
+      "정답: has been + 과거분사로 현재완료 수동태를 만들어요.",
+      "이 문장에서는 has been + 과거분사로 현재완료 수동태를 만들어요. 따라서 postponement는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Employees are encouraged to participate _____ the workshop.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "participate in은 ~에 참여하다라는 표현이에요.",
+    "translation": "직원들은 워크숍에 참여하도록 권장됩니다.",
+    "detail": "participate는 자동사로, 행사에 참여한다는 뜻일 때 participate in + 행사/활동의 형태로 써.",
+    "optionExplanations": [
+      "이 문장에서는 participate in은 ~에 참여하다라는 표현이에요. 따라서 at는 정답이 아니야.",
+      "정답: participate in은 ~에 참여하다라는 표현이에요.",
+      "이 문장에서는 participate in은 ~에 참여하다라는 표현이에요. 따라서 on는 정답이 아니야.",
+      "이 문장에서는 participate in은 ~에 참여하다라는 표현이에요. 따라서 for는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 13,
+    "question": "The CEO will _____ the annual conference tomorrow.",
+    "options": [
+      "address",
+      "addressing",
+      "addressed",
+      "addresses"
+    ],
+    "answer": 0,
+    "category": "동사",
+    "explanation": "조동사 will 뒤에는 동사원형이 와요.",
+    "translation": "CEO는 내일 연례 회의에서 연설할 예정입니다.",
+    "detail": "will 다음에는 동사원형이 와야 해. address는 사람들에게 연설하다라는 동사로 conference와 자연스럽게 어울려.",
+    "optionExplanations": [
+      "정답: 조동사 will 뒤에는 동사원형이 와요.",
+      "이 문장에서는 조동사 will 뒤에는 동사원형이 와요. 따라서 addressing는 정답이 아니야.",
+      "이 문장에서는 조동사 will 뒤에는 동사원형이 와요. 따라서 addressed는 정답이 아니야.",
+      "이 문장에서는 조동사 will 뒤에는 동사원형이 와요. 따라서 addresses는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 14,
+    "question": "The revised schedule will be announced _____ .",
+    "options": [
+      "short",
+      "shortly",
+      "shorten",
+      "shortness"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "동사 announced를 꾸미는 부사 shortly가 맞아요.",
+    "translation": "수정된 일정은 곧 발표됩니다.",
+    "detail": "announced는 동사이므로 발표가 언제 이루어지는지를 나타내는 부사 shortly가 자연스러워. shortly는 곧이라는 뜻이야.",
+    "optionExplanations": [
+      "이 문장에서는 동사 announced를 꾸미는 부사 shortly가 맞아요. 따라서 short는 정답이 아니야.",
+      "정답: 동사 announced를 꾸미는 부사 shortly가 맞아요.",
+      "이 문장에서는 동사 announced를 꾸미는 부사 shortly가 맞아요. 따라서 shorten는 정답이 아니야.",
+      "이 문장에서는 동사 announced를 꾸미는 부사 shortly가 맞아요. 따라서 shortness는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 15,
+    "question": "The report contains _____ information about the project.",
+    "options": [
+      "detail",
+      "detailed",
+      "detailing",
+      "details"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 information 앞에는 형용사 detailed가 와요.",
+    "translation": "보고서에는 프로젝트에 관한 상세한 정보가 있습니다.",
+    "detail": "information은 명사야. 앞에서 내용을 구체적으로 설명하는 형용사 detailed가 필요해.",
+    "optionExplanations": [
+      "이 문장에서는 명사 information 앞에는 형용사 detailed가 와요. 따라서 detail는 정답이 아니야.",
+      "정답: 명사 information 앞에는 형용사 detailed가 와요.",
+      "이 문장에서는 명사 information 앞에는 형용사 detailed가 와요. 따라서 detailing는 정답이 아니야.",
+      "이 문장에서는 명사 information 앞에는 형용사 detailed가 와요. 따라서 details는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 16,
+    "question": "We appreciate your _____ response to our inquiry.",
+    "options": [
+      "prompt",
+      "promptly",
+      "promptness",
+      "prompted"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "명사 response를 꾸미는 형용사 prompt가 맞아요.",
+    "translation": "문의에 신속히 답변해 주셔서 감사합니다.",
+    "detail": "response는 명사이므로 이를 꾸미는 형용사 prompt가 적절해. prompt response는 신속한 답변이라는 빈출 표현이야.",
+    "optionExplanations": [
+      "정답: 명사 response를 꾸미는 형용사 prompt가 맞아요.",
+      "이 문장에서는 명사 response를 꾸미는 형용사 prompt가 맞아요. 따라서 promptly는 정답이 아니야.",
+      "이 문장에서는 명사 response를 꾸미는 형용사 prompt가 맞아요. 따라서 promptness는 정답이 아니야.",
+      "이 문장에서는 명사 response를 꾸미는 형용사 prompt가 맞아요. 따라서 prompted는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 17,
+    "question": "The new policy applies to _____ employees.",
+    "options": [
+      "all",
+      "every",
+      "each",
+      "much"
+    ],
+    "answer": 0,
+    "category": "한정사",
+    "explanation": "복수명사 employees 앞에는 all을 쓸 수 있어요.",
+    "translation": "새 정책은 모든 직원에게 적용됩니다.",
+    "detail": "employees는 복수명사야. all employees는 모든 직원이라는 뜻이고, 정책 적용 대상을 전체로 나타내.",
+    "optionExplanations": [
+      "정답: 복수명사 employees 앞에는 all을 쓸 수 있어요.",
+      "이 문장에서는 복수명사 employees 앞에는 all을 쓸 수 있어요. 따라서 every는 정답이 아니야.",
+      "이 문장에서는 복수명사 employees 앞에는 all을 쓸 수 있어요. 따라서 each는 정답이 아니야.",
+      "이 문장에서는 복수명사 employees 앞에는 all을 쓸 수 있어요. 따라서 much는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 18,
+    "question": "The shipment arrived _____ than expected.",
+    "options": [
+      "early",
+      "earlier",
+      "earliest",
+      "earliness"
+    ],
+    "answer": 1,
+    "category": "비교급",
+    "explanation": "than과 함께 비교급 earlier를 써요.",
+    "translation": "배송물이 예상보다 일찍 도착했습니다.",
+    "detail": "than expected가 비교의 기준이므로 비교급 earlier가 필요해. earlier than expected는 예상보다 일찍이라는 뜻이야.",
+    "optionExplanations": [
+      "이 문장에서는 than과 함께 비교급 earlier를 써요. 따라서 early는 정답이 아니야.",
+      "정답: than과 함께 비교급 earlier를 써요.",
+      "이 문장에서는 than과 함께 비교급 earlier를 써요. 따라서 earliest는 정답이 아니야.",
+      "이 문장에서는 than과 함께 비교급 earlier를 써요. 따라서 earliness는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Please ensure that the doors are _____ locked.",
+    "options": [
+      "secure",
+      "security",
+      "securely",
+      "securing"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "과거분사 locked를 수식하는 부사 securely가 필요해요.",
+    "translation": "문이 안전하게 잠겼는지 확인하세요.",
+    "detail": "locked는 상태를 나타내는 분사야. 잠긴 정도나 방식을 수식하는 부사 securely가 적절해.",
+    "optionExplanations": [
+      "이 문장에서는 과거분사 locked를 수식하는 부사 securely가 필요해요. 따라서 secure는 정답이 아니야.",
+      "이 문장에서는 과거분사 locked를 수식하는 부사 securely가 필요해요. 따라서 security는 정답이 아니야.",
+      "정답: 과거분사 locked를 수식하는 부사 securely가 필요해요.",
+      "이 문장에서는 과거분사 locked를 수식하는 부사 securely가 필요해요. 따라서 securing는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 20,
+    "question": "The position requires excellent _____ skills.",
+    "options": [
+      "communicate",
+      "communication",
+      "communicative",
+      "communicating"
+    ],
+    "answer": 1,
+    "category": "명사",
+    "explanation": "communication skills는 의사소통 능력이라는 표현이에요.",
+    "translation": "그 직무에는 뛰어난 의사소통 능력이 필요합니다.",
+    "detail": "skills는 명사이고 앞에는 어떤 기술인지 나타내는 명사 communication이 올 수 있어. communication skills는 의사소통 능력이라는 연어야.",
+    "optionExplanations": [
+      "이 문장에서는 communication skills는 의사소통 능력이라는 표현이에요. 따라서 communicate는 정답이 아니야.",
+      "정답: communication skills는 의사소통 능력이라는 표현이에요.",
+      "이 문장에서는 communication skills는 의사소통 능력이라는 표현이에요. 따라서 communicative는 정답이 아니야.",
+      "이 문장에서는 communication skills는 의사소통 능력이라는 표현이에요. 따라서 communicating는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 21,
+    "question": "The manager is _____ for approving travel expenses.",
+    "options": [
+      "responsible",
+      "responsibility",
+      "responsibly",
+      "respond"
+    ],
+    "answer": 0,
+    "category": "형용사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이에요.",
+    "translation": "관리자는 출장 경비 승인을 담당합니다.",
+    "detail": "be responsible for는 ~에 책임이 있다라는 표현이야. responsible은 형용사이며 be동사 뒤에서 보어 역할을 해.",
+    "optionExplanations": [
+      "정답: be responsible for는 ~을 책임지다라는 표현이에요.",
+      "이 문장에서는 be responsible for는 ~을 책임지다라는 표현이에요. 따라서 responsibility는 정답이 아니야.",
+      "이 문장에서는 be responsible for는 ~을 책임지다라는 표현이에요. 따라서 responsibly는 정답이 아니야.",
+      "이 문장에서는 be responsible for는 ~을 책임지다라는 표현이에요. 따라서 respond는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 22,
+    "question": "The office will remain closed _____ the holiday.",
+    "options": [
+      "during",
+      "while",
+      "because",
+      "although"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "명사 the holiday 앞에는 전치사 during이 와요.",
+    "translation": "사무실은 휴일 동안 문을 닫습니다.",
+    "detail": "the holiday는 특정 기간을 뜻하는 명사구야. during은 ~동안이라는 전치사로 기간 중의 상태를 표현해.",
+    "optionExplanations": [
+      "정답: 명사 the holiday 앞에는 전치사 during이 와요.",
+      "이 문장에서는 명사 the holiday 앞에는 전치사 during이 와요. 따라서 while는 정답이 아니야.",
+      "이 문장에서는 명사 the holiday 앞에는 전치사 during이 와요. 따라서 because는 정답이 아니야.",
+      "이 문장에서는 명사 the holiday 앞에는 전치사 during이 와요. 따라서 although는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Customers may request a refund _____ 30 days of purchase.",
+    "options": [
+      "within",
+      "between",
+      "among",
+      "throughout"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "within 30 days는 30일 이내에라는 뜻이에요.",
+    "translation": "고객은 구매 후 30일 이내에 환불을 요청할 수 있습니다.",
+    "detail": "within 30 days는 30일 이내에라는 뜻이야. by는 특정 마감 시점, within은 일정 기간의 범위 안을 강조해.",
+    "optionExplanations": [
+      "정답: within 30 days는 30일 이내에라는 뜻이에요.",
+      "이 문장에서는 within 30 days는 30일 이내에라는 뜻이에요. 따라서 between는 정답이 아니야.",
+      "이 문장에서는 within 30 days는 30일 이내에라는 뜻이에요. 따라서 among는 정답이 아니야.",
+      "이 문장에서는 within 30 days는 30일 이내에라는 뜻이에요. 따라서 throughout는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 24,
+    "question": "The presentation was _____ received by the audience.",
+    "options": [
+      "positive",
+      "positively",
+      "positivity",
+      "positives"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "received를 꾸미는 부사 positively가 맞아요.",
+    "translation": "발표는 청중에게 긍정적인 반응을 얻었습니다.",
+    "detail": "received는 동사이므로 어떻게 받아들여졌는지 설명하는 부사 positively가 필요해.",
+    "optionExplanations": [
+      "이 문장에서는 received를 꾸미는 부사 positively가 맞아요. 따라서 positive는 정답이 아니야.",
+      "정답: received를 꾸미는 부사 positively가 맞아요.",
+      "이 문장에서는 received를 꾸미는 부사 positively가 맞아요. 따라서 positivity는 정답이 아니야.",
+      "이 문장에서는 received를 꾸미는 부사 positively가 맞아요. 따라서 positives는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 25,
+    "question": "The factory has increased its production _____ .",
+    "options": [
+      "capacity",
+      "capable",
+      "capably",
+      "capacities"
+    ],
+    "answer": 0,
+    "category": "명사",
+    "explanation": "production capacity는 생산 능력이라는 표현이에요.",
+    "translation": "공장은 생산 능력을 늘렸습니다.",
+    "detail": "production capacity는 생산 능력이라는 고정적으로 자주 쓰이는 명사 결합이야. increased its production capacity는 생산 능력을 늘렸다는 뜻이야.",
+    "optionExplanations": [
+      "정답: production capacity는 생산 능력이라는 표현이에요.",
+      "이 문장에서는 production capacity는 생산 능력이라는 표현이에요. 따라서 capable는 정답이 아니야.",
+      "이 문장에서는 production capacity는 생산 능력이라는 표현이에요. 따라서 capably는 정답이 아니야.",
+      "이 문장에서는 production capacity는 생산 능력이라는 표현이에요. 따라서 capacities는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 26,
+    "question": "The application must be completed _____ it is submitted.",
+    "options": [
+      "before",
+      "despite",
+      "during",
+      "because of"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "뒤에 주어와 동사가 있는 절이 오므로 before가 맞아요.",
+    "translation": "신청서는 제출 전에 작성이 완료되어야 합니다.",
+    "detail": "it is submitted는 주어와 동사가 있는 절이야. 제출되기 전에 작성되어야 하므로 시간 접속사 before가 맞아.",
+    "optionExplanations": [
+      "정답: 뒤에 주어와 동사가 있는 절이 오므로 before가 맞아요.",
+      "이 문장에서는 뒤에 주어와 동사가 있는 절이 오므로 before가 맞아요. 따라서 despite는 정답이 아니야.",
+      "이 문장에서는 뒤에 주어와 동사가 있는 절이 오므로 before가 맞아요. 따라서 during는 정답이 아니야.",
+      "이 문장에서는 뒤에 주어와 동사가 있는 절이 오므로 before가 맞아요. 따라서 because of는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 27,
+    "question": "The committee will review the proposal _____ .",
+    "options": [
+      "care",
+      "careful",
+      "carefully",
+      "carefulness"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "동사 review를 수식하는 부사 carefully가 맞아요.",
+    "translation": "위원회는 제안서를 신중히 검토할 것입니다.",
+    "detail": "review는 동사이고 carefully는 검토하는 방식을 나타내는 부사야. careful은 형용사라서 동사를 직접 수식할 수 없어.",
+    "optionExplanations": [
+      "이 문장에서는 동사 review를 수식하는 부사 carefully가 맞아요. 따라서 care는 정답이 아니야.",
+      "이 문장에서는 동사 review를 수식하는 부사 carefully가 맞아요. 따라서 careful는 정답이 아니야.",
+      "정답: 동사 review를 수식하는 부사 carefully가 맞아요.",
+      "이 문장에서는 동사 review를 수식하는 부사 carefully가 맞아요. 따라서 carefulness는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Our customer service team is available _____ the clock.",
+    "options": [
+      "around",
+      "under",
+      "between",
+      "among"
+    ],
+    "answer": 0,
+    "category": "숙어",
+    "explanation": "around the clock은 24시간 내내라는 뜻이에요.",
+    "translation": "고객 서비스팀은 24시간 이용 가능합니다.",
+    "detail": "around the clock은 24시간 내내라는 숙어야. 단어를 분리해 해석하기보다 한 덩어리로 기억해.",
+    "optionExplanations": [
+      "정답: around the clock은 24시간 내내라는 뜻이에요.",
+      "이 문장에서는 around the clock은 24시간 내내라는 뜻이에요. 따라서 under는 정답이 아니야.",
+      "이 문장에서는 around the clock은 24시간 내내라는 뜻이에요. 따라서 between는 정답이 아니야.",
+      "이 문장에서는 around the clock은 24시간 내내라는 뜻이에요. 따라서 among는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 29,
+    "question": "The product is currently out of _____ .",
+    "options": [
+      "stock",
+      "store",
+      "sale",
+      "order"
+    ],
+    "answer": 0,
+    "category": "어휘",
+    "explanation": "out of stock은 품절이라는 뜻이에요.",
+    "translation": "그 제품은 현재 품절입니다.",
+    "detail": "out of stock은 품절된이라는 고정 표현이야. in stock은 재고가 있는이라는 반대 표현이야.",
+    "optionExplanations": [
+      "정답: out of stock은 품절이라는 뜻이에요.",
+      "이 문장에서는 out of stock은 품절이라는 뜻이에요. 따라서 store는 정답이 아니야.",
+      "이 문장에서는 out of stock은 품절이라는 뜻이에요. 따라서 sale는 정답이 아니야.",
+      "이 문장에서는 out of stock은 품절이라는 뜻이에요. 따라서 order는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Ms. Lee has worked at the company _____ 2021.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "until"
+    ],
+    "answer": 1,
+    "category": "시제",
+    "explanation": "현재완료와 시작 시점에는 since를 사용해요.",
+    "translation": "이 씨는 2021년부터 그 회사에서 일해 왔습니다.",
+    "detail": "현재완료 has worked와 2021이라는 시작 시점이 함께 쓰였어. since는 시작 시점, for는 지속 기간을 나타내.",
+    "optionExplanations": [
+      "이 문장에서는 현재완료와 시작 시점에는 since를 사용해요. 따라서 for는 정답이 아니야.",
+      "정답: 현재완료와 시작 시점에는 since를 사용해요.",
+      "이 문장에서는 현재완료와 시작 시점에는 since를 사용해요. 따라서 during는 정답이 아니야.",
+      "이 문장에서는 현재완료와 시작 시점에는 since를 사용해요. 따라서 until는 정답이 아니야."
+    ]
+  },
+  {
+    "id": 31,
+    "question": "The inspection was completed _____ .",
+    "options": [
+      "succeed",
+      "success",
+      "successfully",
+      "successful"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "동사 completed를 수식하는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "succeed는 동사원형이야.",
+      "success는 명사야.",
+      "successfully는 동작을 수식하는 부사야.",
+      "successful은 형용사야."
+    ]
+  },
+  {
+    "id": 32,
+    "question": "The audit was completed _____ .",
+    "options": [
+      "succeed",
+      "success",
+      "successful",
+      "successfully"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "동사 completed를 수식하는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "succeed는 동사원형이야.",
+      "success는 명사야.",
+      "successful은 형용사야.",
+      "successfully는 동작을 수식하는 부사야."
+    ]
+  },
+  {
+    "id": 33,
+    "question": "The renovation was completed _____ .",
+    "options": [
+      "success",
+      "successful",
+      "succeed",
+      "successfully"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "동사 completed를 수식하는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "success는 명사야.",
+      "successful은 형용사야.",
+      "succeed는 동사원형이야.",
+      "successfully는 동작을 수식하는 부사야."
+    ]
+  },
+  {
+    "id": 34,
+    "question": "The installation was completed _____ .",
+    "options": [
+      "successfully",
+      "success",
+      "successful",
+      "succeed"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "동사 completed를 수식하는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "successfully는 동작을 수식하는 부사야.",
+      "success는 명사야.",
+      "successful은 형용사야.",
+      "succeed는 동사원형이야."
+    ]
+  },
+  {
+    "id": 35,
+    "question": "The evaluation was completed _____ .",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "동사 completed를 수식하는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "success는 명사야.",
+      "succeed는 동사원형이야.",
+      "successful은 형용사야.",
+      "successfully는 동작을 수식하는 부사야."
+    ]
+  },
+  {
+    "id": 36,
+    "question": "The company hired a _____ consultant for the merger.",
+    "options": [
+      "qualify",
+      "qualified",
+      "qualification",
+      "qualifiably"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 consultant 앞에는 형용사가 와.",
+    "translation": "",
+    "optionExplanations": [
+      "qualify는 동사야.",
+      "qualified는 자격을 갖춘이라는 형용사야.",
+      "qualification은 명사야.",
+      "qualifiably는 여기서 사람을 꾸미지 못하는 부사야."
+    ]
+  },
+  {
+    "id": 37,
+    "question": "The company hired a _____ consultant for the campaign.",
+    "options": [
+      "qualifiably",
+      "qualification",
+      "qualified",
+      "qualify"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "명사 consultant 앞에는 형용사가 와.",
+    "translation": "",
+    "optionExplanations": [
+      "qualifiably는 여기서 사람을 꾸미지 못하는 부사야.",
+      "qualification은 명사야.",
+      "qualified는 자격을 갖춘이라는 형용사야.",
+      "qualify는 동사야."
+    ]
+  },
+  {
+    "id": 38,
+    "question": "The company hired a _____ consultant for the expansion.",
+    "options": [
+      "qualify",
+      "qualified",
+      "qualifiably",
+      "qualification"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 consultant 앞에는 형용사가 와.",
+    "translation": "",
+    "optionExplanations": [
+      "qualify는 동사야.",
+      "qualified는 자격을 갖춘이라는 형용사야.",
+      "qualifiably는 여기서 사람을 꾸미지 못하는 부사야.",
+      "qualification은 명사야."
+    ]
+  },
+  {
+    "id": 39,
+    "question": "The company hired a _____ consultant for the reorganization.",
+    "options": [
+      "qualified",
+      "qualifiably",
+      "qualification",
+      "qualify"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "명사 consultant 앞에는 형용사가 와.",
+    "translation": "",
+    "optionExplanations": [
+      "qualified는 자격을 갖춘이라는 형용사야.",
+      "qualifiably는 여기서 사람을 꾸미지 못하는 부사야.",
+      "qualification은 명사야.",
+      "qualify는 동사야."
+    ]
+  },
+  {
+    "id": 40,
+    "question": "The company hired a _____ consultant for the project.",
+    "options": [
+      "qualifiably",
+      "qualified",
+      "qualification",
+      "qualify"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "명사 consultant 앞에는 형용사가 와.",
+    "translation": "",
+    "optionExplanations": [
+      "qualifiably는 여기서 사람을 꾸미지 못하는 부사야.",
+      "qualified는 자격을 갖춘이라는 형용사야.",
+      "qualification은 명사야.",
+      "qualify는 동사야."
+    ]
+  },
+  {
+    "id": 41,
+    "question": "The support team responded _____ to the complaint.",
+    "options": [
+      "prompt",
+      "prompting",
+      "promptly",
+      "promptness"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "동사 responded를 꾸미는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "prompt는 형용사야.",
+      "prompting은 이 자리에 알맞은 부사가 아니야.",
+      "promptly는 신속하게라는 부사야.",
+      "promptness는 명사야."
+    ]
+  },
+  {
+    "id": 42,
+    "question": "The sales team responded _____ to the complaint.",
+    "options": [
+      "prompting",
+      "promptness",
+      "prompt",
+      "promptly"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "동사 responded를 꾸미는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "prompting은 이 자리에 알맞은 부사가 아니야.",
+      "promptness는 명사야.",
+      "prompt는 형용사야.",
+      "promptly는 신속하게라는 부사야."
+    ]
+  },
+  {
+    "id": 43,
+    "question": "The service team responded _____ to the complaint.",
+    "options": [
+      "prompt",
+      "promptness",
+      "prompting",
+      "promptly"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "동사 responded를 꾸미는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "prompt는 형용사야.",
+      "promptness는 명사야.",
+      "prompting은 이 자리에 알맞은 부사가 아니야.",
+      "promptly는 신속하게라는 부사야."
+    ]
+  },
+  {
+    "id": 44,
+    "question": "The technical team responded _____ to the complaint.",
+    "options": [
+      "promptness",
+      "promptly",
+      "prompt",
+      "prompting"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "동사 responded를 꾸미는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "promptness는 명사야.",
+      "promptly는 신속하게라는 부사야.",
+      "prompt는 형용사야.",
+      "prompting은 이 자리에 알맞은 부사가 아니야."
+    ]
+  },
+  {
+    "id": 45,
+    "question": "The operations team responded _____ to the complaint.",
+    "options": [
+      "promptly",
+      "prompting",
+      "promptness",
+      "prompt"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "동사 responded를 꾸미는 부사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "promptly는 신속하게라는 부사야.",
+      "prompting은 이 자리에 알맞은 부사가 아니야.",
+      "promptness는 명사야.",
+      "prompt는 형용사야."
+    ]
+  },
+  {
+    "id": 46,
+    "question": "The finance department requires greater _____.",
+    "options": [
+      "accuracy",
+      "accurately",
+      "accuracies",
+      "accurate"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "greater 뒤에는 비교 대상인 추상명사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "accuracy는 정확성이라는 명사야.",
+      "accurately는 부사야.",
+      "accuracies는 이 문맥에서 부자연스러운 복수형이야.",
+      "accurate는 형용사야."
+    ]
+  },
+  {
+    "id": 47,
+    "question": "The marketing department requires greater _____.",
+    "options": [
+      "accurately",
+      "accuracies",
+      "accuracy",
+      "accurate"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "greater 뒤에는 비교 대상인 추상명사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "accurately는 부사야.",
+      "accuracies는 이 문맥에서 부자연스러운 복수형이야.",
+      "accuracy는 정확성이라는 명사야.",
+      "accurate는 형용사야."
+    ]
+  },
+  {
+    "id": 48,
+    "question": "The logistics department requires greater _____.",
+    "options": [
+      "accuracies",
+      "accurately",
+      "accuracy",
+      "accurate"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "greater 뒤에는 비교 대상인 추상명사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "accuracies는 이 문맥에서 부자연스러운 복수형이야.",
+      "accurately는 부사야.",
+      "accuracy는 정확성이라는 명사야.",
+      "accurate는 형용사야."
+    ]
+  },
+  {
+    "id": 49,
+    "question": "The design department requires greater _____.",
+    "options": [
+      "accuracy",
+      "accuracies",
+      "accurate",
+      "accurately"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "greater 뒤에는 비교 대상인 추상명사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "accuracy는 정확성이라는 명사야.",
+      "accuracies는 이 문맥에서 부자연스러운 복수형이야.",
+      "accurate는 형용사야.",
+      "accurately는 부사야."
+    ]
+  },
+  {
+    "id": 50,
+    "question": "The research department requires greater _____.",
+    "options": [
+      "accurate",
+      "accurately",
+      "accuracy",
+      "accuracies"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "greater 뒤에는 비교 대상인 추상명사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "accurate는 형용사야.",
+      "accurately는 부사야.",
+      "accuracy는 정확성이라는 명사야.",
+      "accuracies는 이 문맥에서 부자연스러운 복수형이야."
+    ]
+  },
+  {
+    "id": 51,
+    "question": "We appreciate your _____ response to the request.",
+    "options": [
+      "quickly",
+      "quicken",
+      "quickness",
+      "quick"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "response를 직접 꾸미는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "quickly는 부사야.",
+      "quicken은 동사야.",
+      "quickness는 명사야.",
+      "quick은 형용사야."
+    ]
+  },
+  {
+    "id": 52,
+    "question": "We appreciate your _____ response to the invitation.",
+    "options": [
+      "quickness",
+      "quickly",
+      "quicken",
+      "quick"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "response를 직접 꾸미는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "quickness는 명사야.",
+      "quickly는 부사야.",
+      "quicken은 동사야.",
+      "quick은 형용사야."
+    ]
+  },
+  {
+    "id": 53,
+    "question": "We appreciate your _____ response to the survey.",
+    "options": [
+      "quickness",
+      "quick",
+      "quicken",
+      "quickly"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "response를 직접 꾸미는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "quickness는 명사야.",
+      "quick은 형용사야.",
+      "quicken은 동사야.",
+      "quickly는 부사야."
+    ]
+  },
+  {
+    "id": 54,
+    "question": "We appreciate your _____ response to the proposal.",
+    "options": [
+      "quick",
+      "quickly",
+      "quicken",
+      "quickness"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "response를 직접 꾸미는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "quick은 형용사야.",
+      "quickly는 부사야.",
+      "quicken은 동사야.",
+      "quickness는 명사야."
+    ]
+  },
+  {
+    "id": 55,
+    "question": "We appreciate your _____ response to the inquiry.",
+    "options": [
+      "quick",
+      "quickness",
+      "quickly",
+      "quicken"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "response를 직접 꾸미는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "quick은 형용사야.",
+      "quickness는 명사야.",
+      "quickly는 부사야.",
+      "quicken은 동사야."
+    ]
+  },
+  {
+    "id": 56,
+    "question": "The manager explained the procedure _____ to new employees.",
+    "options": [
+      "clarity",
+      "clear",
+      "clearing",
+      "clearly"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "explained를 수식할 부사를 골라야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "clarity는 명사야.",
+      "clear는 형용사야.",
+      "clearing은 현재분사로 이 자리의 부사 역할이 아니야.",
+      "clearly는 명확하게라는 부사야."
+    ]
+  },
+  {
+    "id": 57,
+    "question": "The manager explained the policy _____ to new employees.",
+    "options": [
+      "clear",
+      "clarity",
+      "clearly",
+      "clearing"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "explained를 수식할 부사를 골라야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "clear는 형용사야.",
+      "clarity는 명사야.",
+      "clearly는 명확하게라는 부사야.",
+      "clearing은 현재분사로 이 자리의 부사 역할이 아니야."
+    ]
+  },
+  {
+    "id": 58,
+    "question": "The manager explained the schedule _____ to new employees.",
+    "options": [
+      "clarity",
+      "clearing",
+      "clearly",
+      "clear"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "explained를 수식할 부사를 골라야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "clarity는 명사야.",
+      "clearing은 현재분사로 이 자리의 부사 역할이 아니야.",
+      "clearly는 명확하게라는 부사야.",
+      "clear는 형용사야."
+    ]
+  },
+  {
+    "id": 59,
+    "question": "The manager explained the guideline _____ to new employees.",
+    "options": [
+      "clear",
+      "clearing",
+      "clarity",
+      "clearly"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "explained를 수식할 부사를 골라야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "clear는 형용사야.",
+      "clearing은 현재분사로 이 자리의 부사 역할이 아니야.",
+      "clarity는 명사야.",
+      "clearly는 명확하게라는 부사야."
+    ]
+  },
+  {
+    "id": 60,
+    "question": "The manager explained the system _____ to new employees.",
+    "options": [
+      "clear",
+      "clarity",
+      "clearly",
+      "clearing"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "explained를 수식할 부사를 골라야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "clear는 형용사야.",
+      "clarity는 명사야.",
+      "clearly는 명확하게라는 부사야.",
+      "clearing은 현재분사로 이 자리의 부사 역할이 아니야."
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Customer _____ is essential to the success of our hotel.",
+    "options": [
+      "satisfy",
+      "satisfactorily",
+      "satisfied",
+      "satisfaction"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "주어 자리에는 명사 customer satisfaction이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "satisfy는 동사야.",
+      "satisfactorily는 부사야.",
+      "satisfied는 형용사야.",
+      "satisfaction은 만족이라는 명사야."
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Customer _____ is essential to the success of our restaurant.",
+    "options": [
+      "satisfaction",
+      "satisfied",
+      "satisfy",
+      "satisfactorily"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "주어 자리에는 명사 customer satisfaction이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "satisfaction은 만족이라는 명사야.",
+      "satisfied는 형용사야.",
+      "satisfy는 동사야.",
+      "satisfactorily는 부사야."
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Customer _____ is essential to the success of our store.",
+    "options": [
+      "satisfactorily",
+      "satisfy",
+      "satisfied",
+      "satisfaction"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "주어 자리에는 명사 customer satisfaction이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "satisfactorily는 부사야.",
+      "satisfy는 동사야.",
+      "satisfied는 형용사야.",
+      "satisfaction은 만족이라는 명사야."
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Customer _____ is essential to the success of our agency.",
+    "options": [
+      "satisfaction",
+      "satisfied",
+      "satisfactorily",
+      "satisfy"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "주어 자리에는 명사 customer satisfaction이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "satisfaction은 만족이라는 명사야.",
+      "satisfied는 형용사야.",
+      "satisfactorily는 부사야.",
+      "satisfy는 동사야."
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Customer _____ is essential to the success of our company.",
+    "options": [
+      "satisfied",
+      "satisfy",
+      "satisfactorily",
+      "satisfaction"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "주어 자리에는 명사 customer satisfaction이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "satisfied는 형용사야.",
+      "satisfy는 동사야.",
+      "satisfactorily는 부사야.",
+      "satisfaction은 만족이라는 명사야."
+    ]
+  },
+  {
+    "id": 66,
+    "question": "The quarterly report contains _____ information.",
+    "options": [
+      "value",
+      "valuation",
+      "valuable",
+      "valuably"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "information 앞에는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "value는 명사 또는 동사야.",
+      "valuation은 평가라는 명사야.",
+      "valuable은 가치 있는이라는 형용사야.",
+      "valuably는 부사야."
+    ]
+  },
+  {
+    "id": 67,
+    "question": "The annual report contains _____ information.",
+    "options": [
+      "value",
+      "valuable",
+      "valuation",
+      "valuably"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "information 앞에는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "value는 명사 또는 동사야.",
+      "valuable은 가치 있는이라는 형용사야.",
+      "valuation은 평가라는 명사야.",
+      "valuably는 부사야."
+    ]
+  },
+  {
+    "id": 68,
+    "question": "The financial report contains _____ information.",
+    "options": [
+      "valuable",
+      "valuation",
+      "valuably",
+      "value"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "information 앞에는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "valuable은 가치 있는이라는 형용사야.",
+      "valuation은 평가라는 명사야.",
+      "valuably는 부사야.",
+      "value는 명사 또는 동사야."
+    ]
+  },
+  {
+    "id": 69,
+    "question": "The internal report contains _____ information.",
+    "options": [
+      "valuably",
+      "value",
+      "valuation",
+      "valuable"
+    ],
+    "answer": 3,
+    "category": "품사",
+    "explanation": "information 앞에는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "valuably는 부사야.",
+      "value는 명사 또는 동사야.",
+      "valuation은 평가라는 명사야.",
+      "valuable은 가치 있는이라는 형용사야."
+    ]
+  },
+  {
+    "id": 70,
+    "question": "The market report contains _____ information.",
+    "options": [
+      "valuable",
+      "value",
+      "valuation",
+      "valuably"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "information 앞에는 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "valuable은 가치 있는이라는 형용사야.",
+      "value는 명사 또는 동사야.",
+      "valuation은 평가라는 명사야.",
+      "valuably는 부사야."
+    ]
+  },
+  {
+    "id": 71,
+    "question": "The sales presentation was remarkably _____.",
+    "options": [
+      "information",
+      "informative",
+      "informatively",
+      "inform"
+    ],
+    "answer": 1,
+    "category": "품사",
+    "explanation": "was 뒤의 주격보어로 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "information은 명사야.",
+      "informative는 유익한이라는 형용사야.",
+      "informatively는 부사야.",
+      "inform은 동사야."
+    ]
+  },
+  {
+    "id": 72,
+    "question": "The training presentation was remarkably _____.",
+    "options": [
+      "informatively",
+      "inform",
+      "informative",
+      "information"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "was 뒤의 주격보어로 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "informatively는 부사야.",
+      "inform은 동사야.",
+      "informative는 유익한이라는 형용사야.",
+      "information은 명사야."
+    ]
+  },
+  {
+    "id": 73,
+    "question": "The product presentation was remarkably _____.",
+    "options": [
+      "information",
+      "informatively",
+      "informative",
+      "inform"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "was 뒤의 주격보어로 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "information은 명사야.",
+      "informatively는 부사야.",
+      "informative는 유익한이라는 형용사야.",
+      "inform은 동사야."
+    ]
+  },
+  {
+    "id": 74,
+    "question": "The budget presentation was remarkably _____.",
+    "options": [
+      "inform",
+      "information",
+      "informative",
+      "informatively"
+    ],
+    "answer": 2,
+    "category": "품사",
+    "explanation": "was 뒤의 주격보어로 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "inform은 동사야.",
+      "information은 명사야.",
+      "informative는 유익한이라는 형용사야.",
+      "informatively는 부사야."
+    ]
+  },
+  {
+    "id": 75,
+    "question": "The strategy presentation was remarkably _____.",
+    "options": [
+      "informative",
+      "information",
+      "informatively",
+      "inform"
+    ],
+    "answer": 0,
+    "category": "품사",
+    "explanation": "was 뒤의 주격보어로 형용사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "informative는 유익한이라는 형용사야.",
+      "information은 명사야.",
+      "informatively는 부사야.",
+      "inform은 동사야."
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Please submit the invoice _____ noon tomorrow.",
+    "options": [
+      "during",
+      "since",
+      "until",
+      "by"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "마감 시점에는 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 기간 중을 뜻해.",
+      "since는 시작 시점을 나타내.",
+      "until은 상태나 행동의 지속을 강조해.",
+      "by는 늦어도 그때까지 완료하라는 뜻이야."
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Please submit the application _____ noon tomorrow.",
+    "options": [
+      "during",
+      "since",
+      "by",
+      "until"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "마감 시점에는 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 기간 중을 뜻해.",
+      "since는 시작 시점을 나타내.",
+      "by는 늦어도 그때까지 완료하라는 뜻이야.",
+      "until은 상태나 행동의 지속을 강조해."
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Please submit the form _____ noon tomorrow.",
+    "options": [
+      "until",
+      "by",
+      "since",
+      "during"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "마감 시점에는 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 상태나 행동의 지속을 강조해.",
+      "by는 늦어도 그때까지 완료하라는 뜻이야.",
+      "since는 시작 시점을 나타내.",
+      "during은 기간 중을 뜻해."
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Please submit the proposal _____ noon tomorrow.",
+    "options": [
+      "until",
+      "since",
+      "during",
+      "by"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "마감 시점에는 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 상태나 행동의 지속을 강조해.",
+      "since는 시작 시점을 나타내.",
+      "during은 기간 중을 뜻해.",
+      "by는 늦어도 그때까지 완료하라는 뜻이야."
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Please submit the report _____ noon tomorrow.",
+    "options": [
+      "until",
+      "during",
+      "since",
+      "by"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "마감 시점에는 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 상태나 행동의 지속을 강조해.",
+      "during은 기간 중을 뜻해.",
+      "since는 시작 시점을 나타내.",
+      "by는 늦어도 그때까지 완료하라는 뜻이야."
+    ]
+  },
+  {
+    "id": 81,
+    "question": "The regional office will remain closed _____ Monday.",
+    "options": [
+      "until",
+      "within",
+      "by",
+      "during"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "상태가 특정 시점까지 계속되면 until을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 월요일까지 폐쇄 상태가 지속됨을 뜻해.",
+      "within은 일정 기간 이내를 뜻해.",
+      "by는 완료 기한을 뜻해.",
+      "during 뒤에는 기간 명사구가 필요해."
+    ]
+  },
+  {
+    "id": 82,
+    "question": "The main office will remain closed _____ Monday.",
+    "options": [
+      "within",
+      "during",
+      "until",
+      "by"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "상태가 특정 시점까지 계속되면 until을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "within은 일정 기간 이내를 뜻해.",
+      "during 뒤에는 기간 명사구가 필요해.",
+      "until은 월요일까지 폐쇄 상태가 지속됨을 뜻해.",
+      "by는 완료 기한을 뜻해."
+    ]
+  },
+  {
+    "id": 83,
+    "question": "The branch office will remain closed _____ Monday.",
+    "options": [
+      "within",
+      "by",
+      "until",
+      "during"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "상태가 특정 시점까지 계속되면 until을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "within은 일정 기간 이내를 뜻해.",
+      "by는 완료 기한을 뜻해.",
+      "until은 월요일까지 폐쇄 상태가 지속됨을 뜻해.",
+      "during 뒤에는 기간 명사구가 필요해."
+    ]
+  },
+  {
+    "id": 84,
+    "question": "The downtown office will remain closed _____ Monday.",
+    "options": [
+      "within",
+      "until",
+      "by",
+      "during"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "상태가 특정 시점까지 계속되면 until을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "within은 일정 기간 이내를 뜻해.",
+      "until은 월요일까지 폐쇄 상태가 지속됨을 뜻해.",
+      "by는 완료 기한을 뜻해.",
+      "during 뒤에는 기간 명사구가 필요해."
+    ]
+  },
+  {
+    "id": 85,
+    "question": "The administrative office will remain closed _____ Monday.",
+    "options": [
+      "by",
+      "during",
+      "until",
+      "within"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "상태가 특정 시점까지 계속되면 until을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "by는 완료 기한을 뜻해.",
+      "during 뒤에는 기간 명사구가 필요해.",
+      "until은 월요일까지 폐쇄 상태가 지속됨을 뜻해.",
+      "within은 일정 기간 이내를 뜻해."
+    ]
+  },
+  {
+    "id": 86,
+    "question": "The team finished the review _____ the meeting.",
+    "options": [
+      "since",
+      "by",
+      "during",
+      "until"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "회의가 진행되는 동안이라는 뜻에는 during이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "since는 시작 시점 이후를 뜻해.",
+      "by는 회의 시작 전까지 완료했다는 다른 뜻이 돼.",
+      "during은 회의가 진행되는 기간 중을 뜻해.",
+      "until은 계속되는 상태에 어울려."
+    ]
+  },
+  {
+    "id": 87,
+    "question": "The team finished the analysis _____ the meeting.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "회의가 진행되는 동안이라는 뜻에는 during이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 계속되는 상태에 어울려.",
+      "by는 회의 시작 전까지 완료했다는 다른 뜻이 돼.",
+      "during은 회의가 진행되는 기간 중을 뜻해.",
+      "since는 시작 시점 이후를 뜻해."
+    ]
+  },
+  {
+    "id": 88,
+    "question": "The team finished the draft _____ the meeting.",
+    "options": [
+      "until",
+      "since",
+      "by",
+      "during"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "회의가 진행되는 동안이라는 뜻에는 during이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 계속되는 상태에 어울려.",
+      "since는 시작 시점 이후를 뜻해.",
+      "by는 회의 시작 전까지 완료했다는 다른 뜻이 돼.",
+      "during은 회의가 진행되는 기간 중을 뜻해."
+    ]
+  },
+  {
+    "id": 89,
+    "question": "The team finished the design _____ the meeting.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "회의가 진행되는 동안이라는 뜻에는 during이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 계속되는 상태에 어울려.",
+      "by는 회의 시작 전까지 완료했다는 다른 뜻이 돼.",
+      "during은 회의가 진행되는 기간 중을 뜻해.",
+      "since는 시작 시점 이후를 뜻해."
+    ]
+  },
+  {
+    "id": 90,
+    "question": "The team finished the budget _____ the meeting.",
+    "options": [
+      "during",
+      "until",
+      "since",
+      "by"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "회의가 진행되는 동안이라는 뜻에는 during이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 회의가 진행되는 기간 중을 뜻해.",
+      "until은 계속되는 상태에 어울려.",
+      "since는 시작 시점 이후를 뜻해.",
+      "by는 회의 시작 전까지 완료했다는 다른 뜻이 돼."
+    ]
+  },
+  {
+    "id": 91,
+    "question": "_____ the heavy rain, the delivery arrived on time.",
+    "options": [
+      "Unless",
+      "Because",
+      "Although",
+      "Despite"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "명사구 앞에서 양보를 나타내는 전치사는 despite야.",
+    "translation": "",
+    "optionExplanations": [
+      "Unless는 조건절을 이끄는 접속사야.",
+      "Because 뒤에는 절이 필요해.",
+      "Although 뒤에는 절이 필요해.",
+      "Despite 뒤에는 명사구가 와."
+    ]
+  },
+  {
+    "id": 92,
+    "question": "_____ the heavy traffic, the delivery arrived on time.",
+    "options": [
+      "Despite",
+      "Because",
+      "Unless",
+      "Although"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "명사구 앞에서 양보를 나타내는 전치사는 despite야.",
+    "translation": "",
+    "optionExplanations": [
+      "Despite 뒤에는 명사구가 와.",
+      "Because 뒤에는 절이 필요해.",
+      "Unless는 조건절을 이끄는 접속사야.",
+      "Although 뒤에는 절이 필요해."
+    ]
+  },
+  {
+    "id": 93,
+    "question": "_____ the heavy snowfall, the delivery arrived on time.",
+    "options": [
+      "Unless",
+      "Despite",
+      "Although",
+      "Because"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "명사구 앞에서 양보를 나타내는 전치사는 despite야.",
+    "translation": "",
+    "optionExplanations": [
+      "Unless는 조건절을 이끄는 접속사야.",
+      "Despite 뒤에는 명사구가 와.",
+      "Although 뒤에는 절이 필요해.",
+      "Because 뒤에는 절이 필요해."
+    ]
+  },
+  {
+    "id": 94,
+    "question": "_____ the heavy congestion, the delivery arrived on time.",
+    "options": [
+      "Unless",
+      "Despite",
+      "Although",
+      "Because"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "명사구 앞에서 양보를 나타내는 전치사는 despite야.",
+    "translation": "",
+    "optionExplanations": [
+      "Unless는 조건절을 이끄는 접속사야.",
+      "Despite 뒤에는 명사구가 와.",
+      "Although 뒤에는 절이 필요해.",
+      "Because 뒤에는 절이 필요해."
+    ]
+  },
+  {
+    "id": 95,
+    "question": "_____ the heavy fog, the delivery arrived on time.",
+    "options": [
+      "Unless",
+      "Because",
+      "Despite",
+      "Although"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "명사구 앞에서 양보를 나타내는 전치사는 despite야.",
+    "translation": "",
+    "optionExplanations": [
+      "Unless는 조건절을 이끄는 접속사야.",
+      "Because 뒤에는 절이 필요해.",
+      "Despite 뒤에는 명사구가 와.",
+      "Although 뒤에는 절이 필요해."
+    ]
+  },
+  {
+    "id": 96,
+    "question": "The replacement part will be available _____ two weeks.",
+    "options": [
+      "within",
+      "since",
+      "during",
+      "until"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "2주 이내라는 기한에는 within이 자연스러워.",
+    "translation": "",
+    "optionExplanations": [
+      "within은 해당 기간 안에라는 뜻이야.",
+      "since는 과거 시작 시점에 쓰여.",
+      "during은 특정 기간 동안의 사건을 뜻해.",
+      "until은 시점까지 지속되는 상태를 뜻해."
+    ]
+  },
+  {
+    "id": 97,
+    "question": "The new brochure will be available _____ two weeks.",
+    "options": [
+      "since",
+      "until",
+      "within",
+      "during"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "2주 이내라는 기한에는 within이 자연스러워.",
+    "translation": "",
+    "optionExplanations": [
+      "since는 과거 시작 시점에 쓰여.",
+      "until은 시점까지 지속되는 상태를 뜻해.",
+      "within은 해당 기간 안에라는 뜻이야.",
+      "during은 특정 기간 동안의 사건을 뜻해."
+    ]
+  },
+  {
+    "id": 98,
+    "question": "The updated catalog will be available _____ two weeks.",
+    "options": [
+      "until",
+      "since",
+      "within",
+      "during"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "2주 이내라는 기한에는 within이 자연스러워.",
+    "translation": "",
+    "optionExplanations": [
+      "until은 시점까지 지속되는 상태를 뜻해.",
+      "since는 과거 시작 시점에 쓰여.",
+      "within은 해당 기간 안에라는 뜻이야.",
+      "during은 특정 기간 동안의 사건을 뜻해."
+    ]
+  },
+  {
+    "id": 99,
+    "question": "The software patch will be available _____ two weeks.",
+    "options": [
+      "during",
+      "until",
+      "since",
+      "within"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "2주 이내라는 기한에는 within이 자연스러워.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 특정 기간 동안의 사건을 뜻해.",
+      "until은 시점까지 지속되는 상태를 뜻해.",
+      "since는 과거 시작 시점에 쓰여.",
+      "within은 해당 기간 안에라는 뜻이야."
+    ]
+  },
+  {
+    "id": 100,
+    "question": "The training material will be available _____ two weeks.",
+    "options": [
+      "during",
+      "since",
+      "until",
+      "within"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "2주 이내라는 기한에는 within이 자연스러워.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 특정 기간 동안의 사건을 뜻해.",
+      "since는 과거 시작 시점에 쓰여.",
+      "until은 시점까지 지속되는 상태를 뜻해.",
+      "within은 해당 기간 안에라는 뜻이야."
+    ]
+  },
+  {
+    "id": 101,
+    "question": "The conference room is located _____ the second floor.",
+    "options": [
+      "by",
+      "on",
+      "at",
+      "in"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "건물의 층수 앞에는 on을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "by는 근처에라는 뜻이야.",
+      "on the second floor가 올바른 표현이야.",
+      "at은 특정 지점에 쓰이지만 층수와는 보통 쓰지 않아.",
+      "in은 층수를 나타내는 관용 표현이 아니야."
+    ]
+  },
+  {
+    "id": 102,
+    "question": "The training center is located _____ the second floor.",
+    "options": [
+      "on",
+      "in",
+      "by",
+      "at"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "건물의 층수 앞에는 on을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "on the second floor가 올바른 표현이야.",
+      "in은 층수를 나타내는 관용 표현이 아니야.",
+      "by는 근처에라는 뜻이야.",
+      "at은 특정 지점에 쓰이지만 층수와는 보통 쓰지 않아."
+    ]
+  },
+  {
+    "id": 103,
+    "question": "The reception desk is located _____ the second floor.",
+    "options": [
+      "in",
+      "at",
+      "by",
+      "on"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "건물의 층수 앞에는 on을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "in은 층수를 나타내는 관용 표현이 아니야.",
+      "at은 특정 지점에 쓰이지만 층수와는 보통 쓰지 않아.",
+      "by는 근처에라는 뜻이야.",
+      "on the second floor가 올바른 표현이야."
+    ]
+  },
+  {
+    "id": 104,
+    "question": "The staff lounge is located _____ the second floor.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "건물의 층수 앞에는 on을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "on the second floor가 올바른 표현이야.",
+      "in은 층수를 나타내는 관용 표현이 아니야.",
+      "at은 특정 지점에 쓰이지만 층수와는 보통 쓰지 않아.",
+      "by는 근처에라는 뜻이야."
+    ]
+  },
+  {
+    "id": 105,
+    "question": "The meeting room is located _____ the second floor.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "건물의 층수 앞에는 on을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "at은 특정 지점에 쓰이지만 층수와는 보통 쓰지 않아.",
+      "on the second floor가 올바른 표현이야.",
+      "in은 층수를 나타내는 관용 표현이 아니야.",
+      "by는 근처에라는 뜻이야."
+    ]
+  },
+  {
+    "id": 106,
+    "question": "The statement was prepared _____ the accounting team.",
+    "options": [
+      "from",
+      "by",
+      "to",
+      "with"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "수동태에서 행위자를 나타낼 때 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "from은 출처를 뜻해.",
+      "by는 작성한 주체를 나타내.",
+      "to는 방향이나 대상을 뜻해.",
+      "with는 도구나 동반을 뜻해."
+    ]
+  },
+  {
+    "id": 107,
+    "question": "The invoice was prepared _____ the accounting team.",
+    "options": [
+      "from",
+      "by",
+      "to",
+      "with"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "수동태에서 행위자를 나타낼 때 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "from은 출처를 뜻해.",
+      "by는 작성한 주체를 나타내.",
+      "to는 방향이나 대상을 뜻해.",
+      "with는 도구나 동반을 뜻해."
+    ]
+  },
+  {
+    "id": 108,
+    "question": "The budget was prepared _____ the accounting team.",
+    "options": [
+      "from",
+      "to",
+      "with",
+      "by"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "수동태에서 행위자를 나타낼 때 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "from은 출처를 뜻해.",
+      "to는 방향이나 대상을 뜻해.",
+      "with는 도구나 동반을 뜻해.",
+      "by는 작성한 주체를 나타내."
+    ]
+  },
+  {
+    "id": 109,
+    "question": "The report was prepared _____ the accounting team.",
+    "options": [
+      "from",
+      "with",
+      "by",
+      "to"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "수동태에서 행위자를 나타낼 때 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "from은 출처를 뜻해.",
+      "with는 도구나 동반을 뜻해.",
+      "by는 작성한 주체를 나타내.",
+      "to는 방향이나 대상을 뜻해."
+    ]
+  },
+  {
+    "id": 110,
+    "question": "The estimate was prepared _____ the accounting team.",
+    "options": [
+      "to",
+      "with",
+      "by",
+      "from"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "수동태에서 행위자를 나타낼 때 by를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "to는 방향이나 대상을 뜻해.",
+      "with는 도구나 동반을 뜻해.",
+      "by는 작성한 주체를 나타내.",
+      "from은 출처를 뜻해."
+    ]
+  },
+  {
+    "id": 111,
+    "question": "The manager is responsible _____ the annual budget.",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "for가 정확한 짝이야.",
+      "to는 이 표현의 전치사가 아니야.",
+      "at은 장소·시점 등에 주로 쓰여.",
+      "with는 고정 표현에 맞지 않아."
+    ]
+  },
+  {
+    "id": 112,
+    "question": "The manager is responsible _____ the staff schedule.",
+    "options": [
+      "with",
+      "for",
+      "at",
+      "to"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "with는 고정 표현에 맞지 않아.",
+      "for가 정확한 짝이야.",
+      "at은 장소·시점 등에 주로 쓰여.",
+      "to는 이 표현의 전치사가 아니야."
+    ]
+  },
+  {
+    "id": 113,
+    "question": "The manager is responsible _____ the new campaign.",
+    "options": [
+      "to",
+      "for",
+      "at",
+      "with"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "to는 이 표현의 전치사가 아니야.",
+      "for가 정확한 짝이야.",
+      "at은 장소·시점 등에 주로 쓰여.",
+      "with는 고정 표현에 맞지 않아."
+    ]
+  },
+  {
+    "id": 114,
+    "question": "The manager is responsible _____ the client accounts.",
+    "options": [
+      "for",
+      "with",
+      "to",
+      "at"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "for가 정확한 짝이야.",
+      "with는 고정 표현에 맞지 않아.",
+      "to는 이 표현의 전치사가 아니야.",
+      "at은 장소·시점 등에 주로 쓰여."
+    ]
+  },
+  {
+    "id": 115,
+    "question": "The manager is responsible _____ the safety inspection.",
+    "options": [
+      "at",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "be responsible for는 ~을 책임지다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "at은 장소·시점 등에 주로 쓰여.",
+      "for가 정확한 짝이야.",
+      "to는 이 표현의 전치사가 아니야.",
+      "with는 고정 표현에 맞지 않아."
+    ]
+  },
+  {
+    "id": 116,
+    "question": "The workshop begins _____ 9 a.m.",
+    "options": [
+      "on",
+      "during",
+      "in",
+      "at"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "정확한 시각 앞에는 at을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "on은 날짜·요일에 주로 써.",
+      "during은 기간 중을 뜻해.",
+      "in은 월·연도 등 긴 기간에 써.",
+      "at은 시각에 써."
+    ]
+  },
+  {
+    "id": 117,
+    "question": "The seminar begins _____ 9 a.m.",
+    "options": [
+      "during",
+      "on",
+      "in",
+      "at"
+    ],
+    "answer": 3,
+    "category": "전치사",
+    "explanation": "정확한 시각 앞에는 at을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 기간 중을 뜻해.",
+      "on은 날짜·요일에 주로 써.",
+      "in은 월·연도 등 긴 기간에 써.",
+      "at은 시각에 써."
+    ]
+  },
+  {
+    "id": 118,
+    "question": "The orientation begins _____ 9 a.m.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "during"
+    ],
+    "answer": 1,
+    "category": "전치사",
+    "explanation": "정확한 시각 앞에는 at을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "in은 월·연도 등 긴 기간에 써.",
+      "at은 시각에 써.",
+      "on은 날짜·요일에 주로 써.",
+      "during은 기간 중을 뜻해."
+    ]
+  },
+  {
+    "id": 119,
+    "question": "The conference begins _____ 9 a.m.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "during"
+    ],
+    "answer": 0,
+    "category": "전치사",
+    "explanation": "정확한 시각 앞에는 at을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "at은 시각에 써.",
+      "in은 월·연도 등 긴 기간에 써.",
+      "on은 날짜·요일에 주로 써.",
+      "during은 기간 중을 뜻해."
+    ]
+  },
+  {
+    "id": 120,
+    "question": "The interview begins _____ 9 a.m.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "during"
+    ],
+    "answer": 2,
+    "category": "전치사",
+    "explanation": "정확한 시각 앞에는 at을 써.",
+    "translation": "",
+    "optionExplanations": [
+      "in은 월·연도 등 긴 기간에 써.",
+      "on은 날짜·요일에 주로 써.",
+      "at은 시각에 써.",
+      "during은 기간 중을 뜻해."
+    ]
+  },
+  {
+    "id": 121,
+    "question": "_____ the budget is approved, production can begin.",
+    "options": [
+      "Because of",
+      "Despite",
+      "Once",
+      "During"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "완료 후 다음 일이 시작되는 조건에는 once가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "Because of는 전치사구야.",
+      "Despite는 전치사라 뒤에 명사구가 와야 해.",
+      "Once는 ~하자마자 또는 일단 ~하면이라는 접속사야.",
+      "During은 전치사야."
+    ]
+  },
+  {
+    "id": 122,
+    "question": "_____ the proposal is approved, production can begin.",
+    "options": [
+      "Once",
+      "Despite",
+      "Because of",
+      "During"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "완료 후 다음 일이 시작되는 조건에는 once가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "Once는 ~하자마자 또는 일단 ~하면이라는 접속사야.",
+      "Despite는 전치사라 뒤에 명사구가 와야 해.",
+      "Because of는 전치사구야.",
+      "During은 전치사야."
+    ]
+  },
+  {
+    "id": 123,
+    "question": "_____ the design is approved, production can begin.",
+    "options": [
+      "Once",
+      "During",
+      "Because of",
+      "Despite"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "완료 후 다음 일이 시작되는 조건에는 once가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "Once는 ~하자마자 또는 일단 ~하면이라는 접속사야.",
+      "During은 전치사야.",
+      "Because of는 전치사구야.",
+      "Despite는 전치사라 뒤에 명사구가 와야 해."
+    ]
+  },
+  {
+    "id": 124,
+    "question": "_____ the schedule is approved, production can begin.",
+    "options": [
+      "During",
+      "Because of",
+      "Despite",
+      "Once"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "완료 후 다음 일이 시작되는 조건에는 once가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "During은 전치사야.",
+      "Because of는 전치사구야.",
+      "Despite는 전치사라 뒤에 명사구가 와야 해.",
+      "Once는 ~하자마자 또는 일단 ~하면이라는 접속사야."
+    ]
+  },
+  {
+    "id": 125,
+    "question": "_____ the contract is approved, production can begin.",
+    "options": [
+      "During",
+      "Once",
+      "Despite",
+      "Because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "완료 후 다음 일이 시작되는 조건에는 once가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "During은 전치사야.",
+      "Once는 ~하자마자 또는 일단 ~하면이라는 접속사야.",
+      "Despite는 전치사라 뒤에 명사구가 와야 해.",
+      "Because of는 전치사구야."
+    ]
+  },
+  {
+    "id": 126,
+    "question": "The outdoor event will be postponed _____ the weather improves.",
+    "options": [
+      "because",
+      "unless",
+      "until",
+      "although"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "날씨가 좋아질 때까지 연기된다는 뜻에는 until이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "because는 이유를 뜻해.",
+      "unless는 ~하지 않으면이라는 조건이야.",
+      "until은 ~할 때까지를 뜻해.",
+      "although는 양보를 뜻해."
+    ]
+  },
+  {
+    "id": 127,
+    "question": "The inspection will be postponed _____ the weather improves.",
+    "options": [
+      "because",
+      "unless",
+      "until",
+      "although"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "날씨가 좋아질 때까지 연기된다는 뜻에는 until이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "because는 이유를 뜻해.",
+      "unless는 ~하지 않으면이라는 조건이야.",
+      "until은 ~할 때까지를 뜻해.",
+      "although는 양보를 뜻해."
+    ]
+  },
+  {
+    "id": 128,
+    "question": "The site visit will be postponed _____ the weather improves.",
+    "options": [
+      "unless",
+      "although",
+      "because",
+      "until"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "날씨가 좋아질 때까지 연기된다는 뜻에는 until이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "unless는 ~하지 않으면이라는 조건이야.",
+      "although는 양보를 뜻해.",
+      "because는 이유를 뜻해.",
+      "until은 ~할 때까지를 뜻해."
+    ]
+  },
+  {
+    "id": 129,
+    "question": "The delivery will be postponed _____ the weather improves.",
+    "options": [
+      "because",
+      "unless",
+      "until",
+      "although"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "날씨가 좋아질 때까지 연기된다는 뜻에는 until이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "because는 이유를 뜻해.",
+      "unless는 ~하지 않으면이라는 조건이야.",
+      "until은 ~할 때까지를 뜻해.",
+      "although는 양보를 뜻해."
+    ]
+  },
+  {
+    "id": 130,
+    "question": "The ceremony will be postponed _____ the weather improves.",
+    "options": [
+      "although",
+      "because",
+      "unless",
+      "until"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "날씨가 좋아질 때까지 연기된다는 뜻에는 until이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "although는 양보를 뜻해.",
+      "because는 이유를 뜻해.",
+      "unless는 ~하지 않으면이라는 조건이야.",
+      "until은 ~할 때까지를 뜻해."
+    ]
+  },
+  {
+    "id": 131,
+    "question": "_____ the equipment was expensive, the company purchased it.",
+    "options": [
+      "During",
+      "Although",
+      "Despite",
+      "Because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "주어와 동사가 있는 절 앞에는 although를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "During은 전치사야.",
+      "Although는 비록 ~이지만이라는 접속사야.",
+      "Despite는 전치사라 절을 바로 이끌지 못해.",
+      "Because of 뒤에는 명사구가 필요해."
+    ]
+  },
+  {
+    "id": 132,
+    "question": "_____ the software was expensive, the company purchased it.",
+    "options": [
+      "Despite",
+      "Although",
+      "During",
+      "Because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "주어와 동사가 있는 절 앞에는 although를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "Despite는 전치사라 절을 바로 이끌지 못해.",
+      "Although는 비록 ~이지만이라는 접속사야.",
+      "During은 전치사야.",
+      "Because of 뒤에는 명사구가 필요해."
+    ]
+  },
+  {
+    "id": 133,
+    "question": "_____ the machine was expensive, the company purchased it.",
+    "options": [
+      "During",
+      "Although",
+      "Despite",
+      "Because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "주어와 동사가 있는 절 앞에는 although를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "During은 전치사야.",
+      "Although는 비록 ~이지만이라는 접속사야.",
+      "Despite는 전치사라 절을 바로 이끌지 못해.",
+      "Because of 뒤에는 명사구가 필요해."
+    ]
+  },
+  {
+    "id": 134,
+    "question": "_____ the vehicle was expensive, the company purchased it.",
+    "options": [
+      "Although",
+      "Because of",
+      "During",
+      "Despite"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "주어와 동사가 있는 절 앞에는 although를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "Although는 비록 ~이지만이라는 접속사야.",
+      "Because of 뒤에는 명사구가 필요해.",
+      "During은 전치사야.",
+      "Despite는 전치사라 절을 바로 이끌지 못해."
+    ]
+  },
+  {
+    "id": 135,
+    "question": "_____ the system was expensive, the company purchased it.",
+    "options": [
+      "During",
+      "Although",
+      "Because of",
+      "Despite"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "주어와 동사가 있는 절 앞에는 although를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "During은 전치사야.",
+      "Although는 비록 ~이지만이라는 접속사야.",
+      "Because of 뒤에는 명사구가 필요해.",
+      "Despite는 전치사라 절을 바로 이끌지 못해."
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Please notify the supervisor _____ the delivery date changes.",
+    "options": [
+      "during",
+      "because of",
+      "despite",
+      "if"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "변경되는 경우라는 조건을 나타내는 접속사 if가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 전치사야.",
+      "because of는 전치사구야.",
+      "despite는 전치사야.",
+      "if는 조건절을 이끌어."
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Please notify the supervisor _____ the meeting time changes.",
+    "options": [
+      "during",
+      "despite",
+      "if",
+      "because of"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "변경되는 경우라는 조건을 나타내는 접속사 if가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 전치사야.",
+      "despite는 전치사야.",
+      "if는 조건절을 이끌어.",
+      "because of는 전치사구야."
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Please notify the supervisor _____ the work schedule changes.",
+    "options": [
+      "if",
+      "during",
+      "despite",
+      "because of"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "변경되는 경우라는 조건을 나타내는 접속사 if가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "if는 조건절을 이끌어.",
+      "during은 전치사야.",
+      "despite는 전치사야.",
+      "because of는 전치사구야."
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Please notify the supervisor _____ the project scope changes.",
+    "options": [
+      "during",
+      "because of",
+      "if",
+      "despite"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "변경되는 경우라는 조건을 나타내는 접속사 if가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 전치사야.",
+      "because of는 전치사구야.",
+      "if는 조건절을 이끌어.",
+      "despite는 전치사야."
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Please notify the supervisor _____ the order quantity changes.",
+    "options": [
+      "despite",
+      "if",
+      "because of",
+      "during"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "변경되는 경우라는 조건을 나타내는 접속사 if가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "despite는 전치사야.",
+      "if는 조건절을 이끌어.",
+      "because of는 전치사구야.",
+      "during은 전치사야."
+    ]
+  },
+  {
+    "id": 141,
+    "question": "The seminar was canceled _____ the speaker was ill.",
+    "options": [
+      "although",
+      "while",
+      "because",
+      "unless"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "취소의 이유를 설명하므로 because가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "although는 대조·양보를 뜻해.",
+      "while은 동시성 또는 대조를 뜻해.",
+      "because는 원인을 나타내.",
+      "unless는 예외 조건을 뜻해."
+    ]
+  },
+  {
+    "id": 142,
+    "question": "The workshop was canceled _____ the speaker was ill.",
+    "options": [
+      "while",
+      "unless",
+      "because",
+      "although"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "취소의 이유를 설명하므로 because가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "while은 동시성 또는 대조를 뜻해.",
+      "unless는 예외 조건을 뜻해.",
+      "because는 원인을 나타내.",
+      "although는 대조·양보를 뜻해."
+    ]
+  },
+  {
+    "id": 143,
+    "question": "The lecture was canceled _____ the speaker was ill.",
+    "options": [
+      "because",
+      "although",
+      "while",
+      "unless"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "취소의 이유를 설명하므로 because가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "because는 원인을 나타내.",
+      "although는 대조·양보를 뜻해.",
+      "while은 동시성 또는 대조를 뜻해.",
+      "unless는 예외 조건을 뜻해."
+    ]
+  },
+  {
+    "id": 144,
+    "question": "The presentation was canceled _____ the speaker was ill.",
+    "options": [
+      "unless",
+      "because",
+      "although",
+      "while"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "취소의 이유를 설명하므로 because가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "unless는 예외 조건을 뜻해.",
+      "because는 원인을 나타내.",
+      "although는 대조·양보를 뜻해.",
+      "while은 동시성 또는 대조를 뜻해."
+    ]
+  },
+  {
+    "id": 145,
+    "question": "The training session was canceled _____ the speaker was ill.",
+    "options": [
+      "while",
+      "although",
+      "unless",
+      "because"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "취소의 이유를 설명하므로 because가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "while은 동시성 또는 대조를 뜻해.",
+      "although는 대조·양보를 뜻해.",
+      "unless는 예외 조건을 뜻해.",
+      "because는 원인을 나타내."
+    ]
+  },
+  {
+    "id": 146,
+    "question": "The package must be checked _____ it is shipped.",
+    "options": [
+      "before",
+      "because of",
+      "despite",
+      "during"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "배송되기 전에라는 시간 관계를 나타내는 접속사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "before는 절 앞에서 ~하기 전에라는 뜻이야.",
+      "because of는 명사구를 이끌어.",
+      "despite는 명사구와 쓰는 전치사야.",
+      "during은 기간을 나타내는 전치사야."
+    ]
+  },
+  {
+    "id": 147,
+    "question": "The device must be checked _____ it is shipped.",
+    "options": [
+      "before",
+      "during",
+      "despite",
+      "because of"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "배송되기 전에라는 시간 관계를 나타내는 접속사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "before는 절 앞에서 ~하기 전에라는 뜻이야.",
+      "during은 기간을 나타내는 전치사야.",
+      "despite는 명사구와 쓰는 전치사야.",
+      "because of는 명사구를 이끌어."
+    ]
+  },
+  {
+    "id": 148,
+    "question": "The product must be checked _____ it is shipped.",
+    "options": [
+      "despite",
+      "before",
+      "during",
+      "because of"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "배송되기 전에라는 시간 관계를 나타내는 접속사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "despite는 명사구와 쓰는 전치사야.",
+      "before는 절 앞에서 ~하기 전에라는 뜻이야.",
+      "during은 기간을 나타내는 전치사야.",
+      "because of는 명사구를 이끌어."
+    ]
+  },
+  {
+    "id": 149,
+    "question": "The order must be checked _____ it is shipped.",
+    "options": [
+      "despite",
+      "during",
+      "before",
+      "because of"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "배송되기 전에라는 시간 관계를 나타내는 접속사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "despite는 명사구와 쓰는 전치사야.",
+      "during은 기간을 나타내는 전치사야.",
+      "before는 절 앞에서 ~하기 전에라는 뜻이야.",
+      "because of는 명사구를 이끌어."
+    ]
+  },
+  {
+    "id": 150,
+    "question": "The sample must be checked _____ it is shipped.",
+    "options": [
+      "before",
+      "despite",
+      "because of",
+      "during"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "배송되기 전에라는 시간 관계를 나타내는 접속사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "before는 절 앞에서 ~하기 전에라는 뜻이야.",
+      "despite는 명사구와 쓰는 전치사야.",
+      "because of는 명사구를 이끌어.",
+      "during은 기간을 나타내는 전치사야."
+    ]
+  },
+  {
+    "id": 151,
+    "question": "We will proceed with the plan _____ all members agree.",
+    "options": [
+      "because of",
+      "during",
+      "provided that",
+      "despite"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "동의를 조건으로 한다는 뜻에는 provided that이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "because of는 이유를 나타내는 전치사구야.",
+      "during은 전치사야.",
+      "provided that은 ~라는 조건으로라는 접속사야.",
+      "despite는 전치사야."
+    ]
+  },
+  {
+    "id": 152,
+    "question": "We will proceed with the launch _____ all members agree.",
+    "options": [
+      "because of",
+      "provided that",
+      "during",
+      "despite"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "동의를 조건으로 한다는 뜻에는 provided that이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "because of는 이유를 나타내는 전치사구야.",
+      "provided that은 ~라는 조건으로라는 접속사야.",
+      "during은 전치사야.",
+      "despite는 전치사야."
+    ]
+  },
+  {
+    "id": 153,
+    "question": "We will proceed with the revision _____ all members agree.",
+    "options": [
+      "provided that",
+      "during",
+      "because of",
+      "despite"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "동의를 조건으로 한다는 뜻에는 provided that이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "provided that은 ~라는 조건으로라는 접속사야.",
+      "during은 전치사야.",
+      "because of는 이유를 나타내는 전치사구야.",
+      "despite는 전치사야."
+    ]
+  },
+  {
+    "id": 154,
+    "question": "We will proceed with the proposal _____ all members agree.",
+    "options": [
+      "because of",
+      "provided that",
+      "during",
+      "despite"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "동의를 조건으로 한다는 뜻에는 provided that이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "because of는 이유를 나타내는 전치사구야.",
+      "provided that은 ~라는 조건으로라는 접속사야.",
+      "during은 전치사야.",
+      "despite는 전치사야."
+    ]
+  },
+  {
+    "id": 155,
+    "question": "We will proceed with the purchase _____ all members agree.",
+    "options": [
+      "despite",
+      "because of",
+      "provided that",
+      "during"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "동의를 조건으로 한다는 뜻에는 provided that이 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "despite는 전치사야.",
+      "because of는 이유를 나타내는 전치사구야.",
+      "provided that은 ~라는 조건으로라는 접속사야.",
+      "during은 전치사야."
+    ]
+  },
+  {
+    "id": 156,
+    "question": "_____ the shipment arrives, call the warehouse manager.",
+    "options": [
+      "In addition to",
+      "Because of",
+      "As soon as",
+      "Despite"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "도착 즉시라는 뜻에는 as soon as가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "In addition to는 전치사구야.",
+      "Because of는 전치사구야.",
+      "As soon as는 ~하자마자라는 접속사야.",
+      "Despite는 전치사야."
+    ]
+  },
+  {
+    "id": 157,
+    "question": "_____ the delivery truck arrives, call the warehouse manager.",
+    "options": [
+      "As soon as",
+      "Despite",
+      "Because of",
+      "In addition to"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "도착 즉시라는 뜻에는 as soon as가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "As soon as는 ~하자마자라는 접속사야.",
+      "Despite는 전치사야.",
+      "Because of는 전치사구야.",
+      "In addition to는 전치사구야."
+    ]
+  },
+  {
+    "id": 158,
+    "question": "_____ the replacement unit arrives, call the warehouse manager.",
+    "options": [
+      "As soon as",
+      "Despite",
+      "In addition to",
+      "Because of"
+    ],
+    "answer": 0,
+    "category": "접속사",
+    "explanation": "도착 즉시라는 뜻에는 as soon as가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "As soon as는 ~하자마자라는 접속사야.",
+      "Despite는 전치사야.",
+      "In addition to는 전치사구야.",
+      "Because of는 전치사구야."
+    ]
+  },
+  {
+    "id": 159,
+    "question": "_____ the order arrives, call the warehouse manager.",
+    "options": [
+      "In addition to",
+      "As soon as",
+      "Because of",
+      "Despite"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "도착 즉시라는 뜻에는 as soon as가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "In addition to는 전치사구야.",
+      "As soon as는 ~하자마자라는 접속사야.",
+      "Because of는 전치사구야.",
+      "Despite는 전치사야."
+    ]
+  },
+  {
+    "id": 160,
+    "question": "_____ the equipment arrives, call the warehouse manager.",
+    "options": [
+      "Despite",
+      "In addition to",
+      "Because of",
+      "As soon as"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "도착 즉시라는 뜻에는 as soon as가 적절해.",
+    "translation": "",
+    "optionExplanations": [
+      "Despite는 전치사야.",
+      "In addition to는 전치사구야.",
+      "Because of는 전치사구야.",
+      "As soon as는 ~하자마자라는 접속사야."
+    ]
+  },
+  {
+    "id": 161,
+    "question": "The meeting continued _____ several employees were absent.",
+    "options": [
+      "despite",
+      "because of",
+      "during",
+      "even though"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "직원들이 결근했음에도 진행됐다는 양보절이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "despite 뒤에는 명사구가 와야 해.",
+      "because of 뒤에는 명사구가 와야 해.",
+      "during은 전치사야.",
+      "even though는 ~임에도 불구하고라는 접속사야."
+    ]
+  },
+  {
+    "id": 162,
+    "question": "The training continued _____ several employees were absent.",
+    "options": [
+      "despite",
+      "even though",
+      "because of",
+      "during"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "직원들이 결근했음에도 진행됐다는 양보절이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "despite 뒤에는 명사구가 와야 해.",
+      "even though는 ~임에도 불구하고라는 접속사야.",
+      "because of 뒤에는 명사구가 와야 해.",
+      "during은 전치사야."
+    ]
+  },
+  {
+    "id": 163,
+    "question": "The presentation continued _____ several employees were absent.",
+    "options": [
+      "despite",
+      "even though",
+      "because of",
+      "during"
+    ],
+    "answer": 1,
+    "category": "접속사",
+    "explanation": "직원들이 결근했음에도 진행됐다는 양보절이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "despite 뒤에는 명사구가 와야 해.",
+      "even though는 ~임에도 불구하고라는 접속사야.",
+      "because of 뒤에는 명사구가 와야 해.",
+      "during은 전치사야."
+    ]
+  },
+  {
+    "id": 164,
+    "question": "The inspection continued _____ several employees were absent.",
+    "options": [
+      "during",
+      "despite",
+      "because of",
+      "even though"
+    ],
+    "answer": 3,
+    "category": "접속사",
+    "explanation": "직원들이 결근했음에도 진행됐다는 양보절이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "during은 전치사야.",
+      "despite 뒤에는 명사구가 와야 해.",
+      "because of 뒤에는 명사구가 와야 해.",
+      "even though는 ~임에도 불구하고라는 접속사야."
+    ]
+  },
+  {
+    "id": 165,
+    "question": "The workshop continued _____ several employees were absent.",
+    "options": [
+      "because of",
+      "despite",
+      "even though",
+      "during"
+    ],
+    "answer": 2,
+    "category": "접속사",
+    "explanation": "직원들이 결근했음에도 진행됐다는 양보절이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "because of 뒤에는 명사구가 와야 해.",
+      "despite 뒤에는 명사구가 와야 해.",
+      "even though는 ~임에도 불구하고라는 접속사야.",
+      "during은 전치사야."
+    ]
+  },
+  {
+    "id": 166,
+    "question": "The staff meeting _____ every Monday morning.",
+    "options": [
+      "held",
+      "holding",
+      "is held",
+      "hold"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "정기적인 일정이고 회의가 개최되는 수동 관계야.",
+    "translation": "",
+    "optionExplanations": [
+      "held는 단독으로 현재 수동태를 만들지 못해.",
+      "holding은 단독으로 서술어가 될 수 없어.",
+      "is held는 현재 시제 수동태야.",
+      "hold는 능동 동사원형이야."
+    ]
+  },
+  {
+    "id": 167,
+    "question": "The sales briefing _____ every Monday morning.",
+    "options": [
+      "holding",
+      "held",
+      "hold",
+      "is held"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "정기적인 일정이고 회의가 개최되는 수동 관계야.",
+    "translation": "",
+    "optionExplanations": [
+      "holding은 단독으로 서술어가 될 수 없어.",
+      "held는 단독으로 현재 수동태를 만들지 못해.",
+      "hold는 능동 동사원형이야.",
+      "is held는 현재 시제 수동태야."
+    ]
+  },
+  {
+    "id": 168,
+    "question": "The team review _____ every Monday morning.",
+    "options": [
+      "hold",
+      "is held",
+      "held",
+      "holding"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "정기적인 일정이고 회의가 개최되는 수동 관계야.",
+    "translation": "",
+    "optionExplanations": [
+      "hold는 능동 동사원형이야.",
+      "is held는 현재 시제 수동태야.",
+      "held는 단독으로 현재 수동태를 만들지 못해.",
+      "holding은 단독으로 서술어가 될 수 없어."
+    ]
+  },
+  {
+    "id": 169,
+    "question": "The planning session _____ every Monday morning.",
+    "options": [
+      "holding",
+      "hold",
+      "is held",
+      "held"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "정기적인 일정이고 회의가 개최되는 수동 관계야.",
+    "translation": "",
+    "optionExplanations": [
+      "holding은 단독으로 서술어가 될 수 없어.",
+      "hold는 능동 동사원형이야.",
+      "is held는 현재 시제 수동태야.",
+      "held는 단독으로 현재 수동태를 만들지 못해."
+    ]
+  },
+  {
+    "id": 170,
+    "question": "The department meeting _____ every Monday morning.",
+    "options": [
+      "holding",
+      "held",
+      "hold",
+      "is held"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "정기적인 일정이고 회의가 개최되는 수동 관계야.",
+    "translation": "",
+    "optionExplanations": [
+      "holding은 단독으로 서술어가 될 수 없어.",
+      "held는 단독으로 현재 수동태를 만들지 못해.",
+      "hold는 능동 동사원형이야.",
+      "is held는 현재 시제 수동태야."
+    ]
+  },
+  {
+    "id": 171,
+    "question": "The invoice _____ last Friday.",
+    "options": [
+      "submits",
+      "has submit",
+      "was submitted",
+      "is submitting"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "last Friday라는 과거 시점과 수동 관계를 확인해.",
+    "translation": "",
+    "optionExplanations": [
+      "submits는 현재 능동이야.",
+      "has submit은 현재완료 형태가 틀렸어.",
+      "was submitted는 과거 수동태야.",
+      "is submitting은 현재진행 능동이야."
+    ]
+  },
+  {
+    "id": 172,
+    "question": "The contract _____ last Friday.",
+    "options": [
+      "has submit",
+      "submits",
+      "was submitted",
+      "is submitting"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "last Friday라는 과거 시점과 수동 관계를 확인해.",
+    "translation": "",
+    "optionExplanations": [
+      "has submit은 현재완료 형태가 틀렸어.",
+      "submits는 현재 능동이야.",
+      "was submitted는 과거 수동태야.",
+      "is submitting은 현재진행 능동이야."
+    ]
+  },
+  {
+    "id": 173,
+    "question": "The report _____ last Friday.",
+    "options": [
+      "is submitting",
+      "submits",
+      "has submit",
+      "was submitted"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "last Friday라는 과거 시점과 수동 관계를 확인해.",
+    "translation": "",
+    "optionExplanations": [
+      "is submitting은 현재진행 능동이야.",
+      "submits는 현재 능동이야.",
+      "has submit은 현재완료 형태가 틀렸어.",
+      "was submitted는 과거 수동태야."
+    ]
+  },
+  {
+    "id": 174,
+    "question": "The proposal _____ last Friday.",
+    "options": [
+      "was submitted",
+      "submits",
+      "is submitting",
+      "has submit"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "last Friday라는 과거 시점과 수동 관계를 확인해.",
+    "translation": "",
+    "optionExplanations": [
+      "was submitted는 과거 수동태야.",
+      "submits는 현재 능동이야.",
+      "is submitting은 현재진행 능동이야.",
+      "has submit은 현재완료 형태가 틀렸어."
+    ]
+  },
+  {
+    "id": 175,
+    "question": "The application _____ last Friday.",
+    "options": [
+      "has submit",
+      "is submitting",
+      "submits",
+      "was submitted"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "last Friday라는 과거 시점과 수동 관계를 확인해.",
+    "translation": "",
+    "optionExplanations": [
+      "has submit은 현재완료 형태가 틀렸어.",
+      "is submitting은 현재진행 능동이야.",
+      "submits는 현재 능동이야.",
+      "was submitted는 과거 수동태야."
+    ]
+  },
+  {
+    "id": 176,
+    "question": "The renovation _____ by the end of next month.",
+    "options": [
+      "will complete",
+      "completed",
+      "will be completed",
+      "completing"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "미래 마감과 수동 관계를 함께 나타내야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "will complete는 능동태라 주어가 일을 직접 하는 뜻이야.",
+      "completed는 조동사 없이 미래를 나타내지 못해.",
+      "will be completed는 미래 수동태야.",
+      "completing은 단독 서술어가 아니야."
+    ]
+  },
+  {
+    "id": 177,
+    "question": "The installation _____ by the end of next month.",
+    "options": [
+      "will be completed",
+      "completing",
+      "completed",
+      "will complete"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "미래 마감과 수동 관계를 함께 나타내야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "will be completed는 미래 수동태야.",
+      "completing은 단독 서술어가 아니야.",
+      "completed는 조동사 없이 미래를 나타내지 못해.",
+      "will complete는 능동태라 주어가 일을 직접 하는 뜻이야."
+    ]
+  },
+  {
+    "id": 178,
+    "question": "The audit _____ by the end of next month.",
+    "options": [
+      "completed",
+      "will be completed",
+      "will complete",
+      "completing"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "미래 마감과 수동 관계를 함께 나타내야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "completed는 조동사 없이 미래를 나타내지 못해.",
+      "will be completed는 미래 수동태야.",
+      "will complete는 능동태라 주어가 일을 직접 하는 뜻이야.",
+      "completing은 단독 서술어가 아니야."
+    ]
+  },
+  {
+    "id": 179,
+    "question": "The project _____ by the end of next month.",
+    "options": [
+      "completed",
+      "completing",
+      "will complete",
+      "will be completed"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "미래 마감과 수동 관계를 함께 나타내야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "completed는 조동사 없이 미래를 나타내지 못해.",
+      "completing은 단독 서술어가 아니야.",
+      "will complete는 능동태라 주어가 일을 직접 하는 뜻이야.",
+      "will be completed는 미래 수동태야."
+    ]
+  },
+  {
+    "id": 180,
+    "question": "The expansion _____ by the end of next month.",
+    "options": [
+      "completed",
+      "will be completed",
+      "completing",
+      "will complete"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "미래 마감과 수동 관계를 함께 나타내야 해.",
+    "translation": "",
+    "optionExplanations": [
+      "completed는 조동사 없이 미래를 나타내지 못해.",
+      "will be completed는 미래 수동태야.",
+      "completing은 단독 서술어가 아니야.",
+      "will complete는 능동태라 주어가 일을 직접 하는 뜻이야."
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Each employee _____ a separate access code.",
+    "options": [
+      "receives",
+      "receiving",
+      "receive",
+      "have received"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "Each + 단수명사는 단수 동사를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "receives는 3인칭 단수 현재형이야.",
+      "receiving은 단독 서술어가 아니야.",
+      "receive는 단수 주어의 현재형이 아니야.",
+      "have received는 단수 주어와 수일치하지 않아."
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Each visitor _____ a separate access code.",
+    "options": [
+      "receiving",
+      "receives",
+      "have received",
+      "receive"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "Each + 단수명사는 단수 동사를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "receiving은 단독 서술어가 아니야.",
+      "receives는 3인칭 단수 현재형이야.",
+      "have received는 단수 주어와 수일치하지 않아.",
+      "receive는 단수 주어의 현재형이 아니야."
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Each applicant _____ a separate access code.",
+    "options": [
+      "receive",
+      "receiving",
+      "receives",
+      "have received"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "Each + 단수명사는 단수 동사를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "receive는 단수 주어의 현재형이 아니야.",
+      "receiving은 단독 서술어가 아니야.",
+      "receives는 3인칭 단수 현재형이야.",
+      "have received는 단수 주어와 수일치하지 않아."
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Each contractor _____ a separate access code.",
+    "options": [
+      "receive",
+      "have received",
+      "receives",
+      "receiving"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "Each + 단수명사는 단수 동사를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "receive는 단수 주어의 현재형이 아니야.",
+      "have received는 단수 주어와 수일치하지 않아.",
+      "receives는 3인칭 단수 현재형이야.",
+      "receiving은 단독 서술어가 아니야."
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Each participant _____ a separate access code.",
+    "options": [
+      "have received",
+      "receive",
+      "receiving",
+      "receives"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "Each + 단수명사는 단수 동사를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "have received는 단수 주어와 수일치하지 않아.",
+      "receive는 단수 주어의 현재형이 아니야.",
+      "receiving은 단독 서술어가 아니야.",
+      "receives는 3인칭 단수 현재형이야."
+    ]
+  },
+  {
+    "id": 186,
+    "question": "The manager has already _____ the documents.",
+    "options": [
+      "reviewing",
+      "review",
+      "reviews",
+      "reviewed"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "has already 뒤에는 과거분사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "reviewing은 현재분사야.",
+      "review는 동사원형이야.",
+      "reviews는 현재형이야.",
+      "reviewed는 과거분사야."
+    ]
+  },
+  {
+    "id": 187,
+    "question": "The assistant has already _____ the documents.",
+    "options": [
+      "reviewed",
+      "reviews",
+      "reviewing",
+      "review"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "has already 뒤에는 과거분사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "reviewed는 과거분사야.",
+      "reviews는 현재형이야.",
+      "reviewing은 현재분사야.",
+      "review는 동사원형이야."
+    ]
+  },
+  {
+    "id": 188,
+    "question": "The director has already _____ the documents.",
+    "options": [
+      "reviews",
+      "reviewing",
+      "review",
+      "reviewed"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "has already 뒤에는 과거분사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "reviews는 현재형이야.",
+      "reviewing은 현재분사야.",
+      "review는 동사원형이야.",
+      "reviewed는 과거분사야."
+    ]
+  },
+  {
+    "id": 189,
+    "question": "The accountant has already _____ the documents.",
+    "options": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "has already 뒤에는 과거분사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "review는 동사원형이야.",
+      "reviewed는 과거분사야.",
+      "reviews는 현재형이야.",
+      "reviewing은 현재분사야."
+    ]
+  },
+  {
+    "id": 190,
+    "question": "The coordinator has already _____ the documents.",
+    "options": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "has already 뒤에는 과거분사가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "review는 동사원형이야.",
+      "reviewed는 과거분사야.",
+      "reviews는 현재형이야.",
+      "reviewing은 현재분사야."
+    ]
+  },
+  {
+    "id": 191,
+    "question": "The printer _____ when the power went out.",
+    "options": [
+      "will operate",
+      "operates",
+      "has operated",
+      "was operating"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "과거 한 시점에 진행 중이던 동작은 과거진행형이야.",
+    "translation": "",
+    "optionExplanations": [
+      "will operate는 미래야.",
+      "operates는 현재의 반복을 뜻해.",
+      "has operated는 현재완료야.",
+      "was operating은 과거진행형이야."
+    ]
+  },
+  {
+    "id": 192,
+    "question": "The computer _____ when the power went out.",
+    "options": [
+      "will operate",
+      "was operating",
+      "operates",
+      "has operated"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "과거 한 시점에 진행 중이던 동작은 과거진행형이야.",
+    "translation": "",
+    "optionExplanations": [
+      "will operate는 미래야.",
+      "was operating은 과거진행형이야.",
+      "operates는 현재의 반복을 뜻해.",
+      "has operated는 현재완료야."
+    ]
+  },
+  {
+    "id": 193,
+    "question": "The machine _____ when the power went out.",
+    "options": [
+      "operates",
+      "has operated",
+      "was operating",
+      "will operate"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "과거 한 시점에 진행 중이던 동작은 과거진행형이야.",
+    "translation": "",
+    "optionExplanations": [
+      "operates는 현재의 반복을 뜻해.",
+      "has operated는 현재완료야.",
+      "was operating은 과거진행형이야.",
+      "will operate는 미래야."
+    ]
+  },
+  {
+    "id": 194,
+    "question": "The server _____ when the power went out.",
+    "options": [
+      "was operating",
+      "has operated",
+      "operates",
+      "will operate"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "과거 한 시점에 진행 중이던 동작은 과거진행형이야.",
+    "translation": "",
+    "optionExplanations": [
+      "was operating은 과거진행형이야.",
+      "has operated는 현재완료야.",
+      "operates는 현재의 반복을 뜻해.",
+      "will operate는 미래야."
+    ]
+  },
+  {
+    "id": 195,
+    "question": "The scanner _____ when the power went out.",
+    "options": [
+      "was operating",
+      "operates",
+      "has operated",
+      "will operate"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "과거 한 시점에 진행 중이던 동작은 과거진행형이야.",
+    "translation": "",
+    "optionExplanations": [
+      "was operating은 과거진행형이야.",
+      "operates는 현재의 반복을 뜻해.",
+      "has operated는 현재완료야.",
+      "will operate는 미래야."
+    ]
+  },
+  {
+    "id": 196,
+    "question": "The equipment should _____ before use.",
+    "options": [
+      "inspected",
+      "inspecting",
+      "be inspected",
+      "inspect"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "장비는 점검을 받는 대상이므로 조동사 수동태가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "inspected는 be 없이 수동태를 만들 수 없어.",
+      "inspecting은 조동사 뒤의 올바른 형태가 아니야.",
+      "be inspected는 should 뒤의 수동태야.",
+      "inspect는 장비가 직접 점검한다는 능동 의미야."
+    ]
+  },
+  {
+    "id": 197,
+    "question": "The device should _____ before use.",
+    "options": [
+      "inspected",
+      "inspect",
+      "be inspected",
+      "inspecting"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "장비는 점검을 받는 대상이므로 조동사 수동태가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "inspected는 be 없이 수동태를 만들 수 없어.",
+      "inspect는 장비가 직접 점검한다는 능동 의미야.",
+      "be inspected는 should 뒤의 수동태야.",
+      "inspecting은 조동사 뒤의 올바른 형태가 아니야."
+    ]
+  },
+  {
+    "id": 198,
+    "question": "The machine should _____ before use.",
+    "options": [
+      "inspect",
+      "inspected",
+      "inspecting",
+      "be inspected"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "장비는 점검을 받는 대상이므로 조동사 수동태가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "inspect는 장비가 직접 점검한다는 능동 의미야.",
+      "inspected는 be 없이 수동태를 만들 수 없어.",
+      "inspecting은 조동사 뒤의 올바른 형태가 아니야.",
+      "be inspected는 should 뒤의 수동태야."
+    ]
+  },
+  {
+    "id": 199,
+    "question": "The system should _____ before use.",
+    "options": [
+      "inspecting",
+      "inspected",
+      "be inspected",
+      "inspect"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "장비는 점검을 받는 대상이므로 조동사 수동태가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "inspecting은 조동사 뒤의 올바른 형태가 아니야.",
+      "inspected는 be 없이 수동태를 만들 수 없어.",
+      "be inspected는 should 뒤의 수동태야.",
+      "inspect는 장비가 직접 점검한다는 능동 의미야."
+    ]
+  },
+  {
+    "id": 200,
+    "question": "The vehicle should _____ before use.",
+    "options": [
+      "inspected",
+      "inspect",
+      "inspecting",
+      "be inspected"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "장비는 점검을 받는 대상이므로 조동사 수동태가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "inspected는 be 없이 수동태를 만들 수 없어.",
+      "inspect는 장비가 직접 점검한다는 능동 의미야.",
+      "inspecting은 조동사 뒤의 올바른 형태가 아니야.",
+      "be inspected는 should 뒤의 수동태야."
+    ]
+  },
+  {
+    "id": 201,
+    "question": "The director requested that the schedule _____ revised.",
+    "options": [
+      "being",
+      "is",
+      "be",
+      "was"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "요구를 나타내는 that절에서는 (should) be를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "being은 단독으로 요구절 서술어가 될 수 없어.",
+      "is는 요구절의 동사원형 형태가 아니야.",
+      "be는 동사원형으로 맞아.",
+      "was는 과거형이야."
+    ]
+  },
+  {
+    "id": 202,
+    "question": "The director requested that the proposal _____ revised.",
+    "options": [
+      "is",
+      "was",
+      "being",
+      "be"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "요구를 나타내는 that절에서는 (should) be를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "is는 요구절의 동사원형 형태가 아니야.",
+      "was는 과거형이야.",
+      "being은 단독으로 요구절 서술어가 될 수 없어.",
+      "be는 동사원형으로 맞아."
+    ]
+  },
+  {
+    "id": 203,
+    "question": "The director requested that the policy _____ revised.",
+    "options": [
+      "being",
+      "be",
+      "is",
+      "was"
+    ],
+    "answer": 1,
+    "category": "동사·시제",
+    "explanation": "요구를 나타내는 that절에서는 (should) be를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "being은 단독으로 요구절 서술어가 될 수 없어.",
+      "be는 동사원형으로 맞아.",
+      "is는 요구절의 동사원형 형태가 아니야.",
+      "was는 과거형이야."
+    ]
+  },
+  {
+    "id": 204,
+    "question": "The director requested that the budget _____ revised.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "being"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "요구를 나타내는 that절에서는 (should) be를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "is는 요구절의 동사원형 형태가 아니야.",
+      "was는 과거형이야.",
+      "be는 동사원형으로 맞아.",
+      "being은 단독으로 요구절 서술어가 될 수 없어."
+    ]
+  },
+  {
+    "id": 205,
+    "question": "The director requested that the contract _____ revised.",
+    "options": [
+      "was",
+      "is",
+      "be",
+      "being"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "요구를 나타내는 that절에서는 (should) be를 사용해.",
+    "translation": "",
+    "optionExplanations": [
+      "was는 과거형이야.",
+      "is는 요구절의 동사원형 형태가 아니야.",
+      "be는 동사원형으로 맞아.",
+      "being은 단독으로 요구절 서술어가 될 수 없어."
+    ]
+  },
+  {
+    "id": 206,
+    "question": "By the time the director arrived, the meeting had _____.",
+    "options": [
+      "begun",
+      "begin",
+      "began",
+      "beginning"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "과거보다 앞선 사건에는 과거완료 had + p.p.를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "begun은 과거분사야.",
+      "begin은 동사원형이야.",
+      "began은 과거형이야.",
+      "beginning은 현재분사야."
+    ]
+  },
+  {
+    "id": 207,
+    "question": "By the time the client arrived, the meeting had _____.",
+    "options": [
+      "begun",
+      "beginning",
+      "began",
+      "begin"
+    ],
+    "answer": 0,
+    "category": "동사·시제",
+    "explanation": "과거보다 앞선 사건에는 과거완료 had + p.p.를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "begun은 과거분사야.",
+      "beginning은 현재분사야.",
+      "began은 과거형이야.",
+      "begin은 동사원형이야."
+    ]
+  },
+  {
+    "id": 208,
+    "question": "By the time the manager arrived, the meeting had _____.",
+    "options": [
+      "beginning",
+      "began",
+      "begin",
+      "begun"
+    ],
+    "answer": 3,
+    "category": "동사·시제",
+    "explanation": "과거보다 앞선 사건에는 과거완료 had + p.p.를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "beginning은 현재분사야.",
+      "began은 과거형이야.",
+      "begin은 동사원형이야.",
+      "begun은 과거분사야."
+    ]
+  },
+  {
+    "id": 209,
+    "question": "By the time the speaker arrived, the meeting had _____.",
+    "options": [
+      "beginning",
+      "begin",
+      "begun",
+      "began"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "과거보다 앞선 사건에는 과거완료 had + p.p.를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "beginning은 현재분사야.",
+      "begin은 동사원형이야.",
+      "begun은 과거분사야.",
+      "began은 과거형이야."
+    ]
+  },
+  {
+    "id": 210,
+    "question": "By the time the consultant arrived, the meeting had _____.",
+    "options": [
+      "begin",
+      "began",
+      "begun",
+      "beginning"
+    ],
+    "answer": 2,
+    "category": "동사·시제",
+    "explanation": "과거보다 앞선 사건에는 과거완료 had + p.p.를 써.",
+    "translation": "",
+    "optionExplanations": [
+      "begin은 동사원형이야.",
+      "began은 과거형이야.",
+      "begun은 과거분사야.",
+      "beginning은 현재분사야."
+    ]
+  },
+  {
+    "id": 211,
+    "question": "The company will _____ a new product next quarter.",
+    "options": [
+      "borrow",
+      "repair",
+      "attend",
+      "launch"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "새 상품·서비스를 시장에 선보인다는 뜻에는 launch가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "borrow는 빌리다야.",
+      "repair는 고장난 것을 수리하다야.",
+      "attend는 행사에 참석하다야.",
+      "launch는 출시하다라는 뜻이야."
+    ]
+  },
+  {
+    "id": 212,
+    "question": "The company will _____ a new service next quarter.",
+    "options": [
+      "launch",
+      "attend",
+      "borrow",
+      "repair"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "새 상품·서비스를 시장에 선보인다는 뜻에는 launch가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "launch는 출시하다라는 뜻이야.",
+      "attend는 행사에 참석하다야.",
+      "borrow는 빌리다야.",
+      "repair는 고장난 것을 수리하다야."
+    ]
+  },
+  {
+    "id": 213,
+    "question": "The company will _____ a new platform next quarter.",
+    "options": [
+      "launch",
+      "attend",
+      "repair",
+      "borrow"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "새 상품·서비스를 시장에 선보인다는 뜻에는 launch가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "launch는 출시하다라는 뜻이야.",
+      "attend는 행사에 참석하다야.",
+      "repair는 고장난 것을 수리하다야.",
+      "borrow는 빌리다야."
+    ]
+  },
+  {
+    "id": 214,
+    "question": "The company will _____ a new application next quarter.",
+    "options": [
+      "launch",
+      "attend",
+      "repair",
+      "borrow"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "새 상품·서비스를 시장에 선보인다는 뜻에는 launch가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "launch는 출시하다라는 뜻이야.",
+      "attend는 행사에 참석하다야.",
+      "repair는 고장난 것을 수리하다야.",
+      "borrow는 빌리다야."
+    ]
+  },
+  {
+    "id": 215,
+    "question": "The company will _____ a new program next quarter.",
+    "options": [
+      "attend",
+      "repair",
+      "launch",
+      "borrow"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "새 상품·서비스를 시장에 선보인다는 뜻에는 launch가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "attend는 행사에 참석하다야.",
+      "repair는 고장난 것을 수리하다야.",
+      "launch는 출시하다라는 뜻이야.",
+      "borrow는 빌리다야."
+    ]
+  },
+  {
+    "id": 216,
+    "question": "Please _____ the agreement before signing.",
+    "options": [
+      "hire",
+      "postpone",
+      "deliver",
+      "review"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "서명 전에 문서를 검토하라는 문맥이야.",
+    "translation": "",
+    "optionExplanations": [
+      "hire는 사람을 고용하다야.",
+      "postpone은 일정을 연기하다야.",
+      "deliver는 전달하다야.",
+      "review는 검토하다야."
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Please _____ the contract before signing.",
+    "options": [
+      "postpone",
+      "deliver",
+      "review",
+      "hire"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "서명 전에 문서를 검토하라는 문맥이야.",
+    "translation": "",
+    "optionExplanations": [
+      "postpone은 일정을 연기하다야.",
+      "deliver는 전달하다야.",
+      "review는 검토하다야.",
+      "hire는 사람을 고용하다야."
+    ]
+  },
+  {
+    "id": 218,
+    "question": "Please _____ the document before signing.",
+    "options": [
+      "deliver",
+      "hire",
+      "postpone",
+      "review"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "서명 전에 문서를 검토하라는 문맥이야.",
+    "translation": "",
+    "optionExplanations": [
+      "deliver는 전달하다야.",
+      "hire는 사람을 고용하다야.",
+      "postpone은 일정을 연기하다야.",
+      "review는 검토하다야."
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Please _____ the form before signing.",
+    "options": [
+      "deliver",
+      "postpone",
+      "hire",
+      "review"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "서명 전에 문서를 검토하라는 문맥이야.",
+    "translation": "",
+    "optionExplanations": [
+      "deliver는 전달하다야.",
+      "postpone은 일정을 연기하다야.",
+      "hire는 사람을 고용하다야.",
+      "review는 검토하다야."
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Please _____ the proposal before signing.",
+    "options": [
+      "hire",
+      "deliver",
+      "postpone",
+      "review"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "서명 전에 문서를 검토하라는 문맥이야.",
+    "translation": "",
+    "optionExplanations": [
+      "hire는 사람을 고용하다야.",
+      "deliver는 전달하다야.",
+      "postpone은 일정을 연기하다야.",
+      "review는 검토하다야."
+    ]
+  },
+  {
+    "id": 221,
+    "question": "The printer is currently out of _____.",
+    "options": [
+      "salary",
+      "office",
+      "meeting",
+      "stock"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "out of stock은 품절이라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "salary는 급여야.",
+      "office는 사무실이야.",
+      "meeting은 회의야.",
+      "stock은 재고를 뜻해."
+    ]
+  },
+  {
+    "id": 222,
+    "question": "The laptop is currently out of _____.",
+    "options": [
+      "stock",
+      "salary",
+      "meeting",
+      "office"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "out of stock은 품절이라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "stock은 재고를 뜻해.",
+      "salary는 급여야.",
+      "meeting은 회의야.",
+      "office는 사무실이야."
+    ]
+  },
+  {
+    "id": 223,
+    "question": "The tablet is currently out of _____.",
+    "options": [
+      "meeting",
+      "salary",
+      "office",
+      "stock"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "out of stock은 품절이라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "meeting은 회의야.",
+      "salary는 급여야.",
+      "office는 사무실이야.",
+      "stock은 재고를 뜻해."
+    ]
+  },
+  {
+    "id": 224,
+    "question": "The monitor is currently out of _____.",
+    "options": [
+      "office",
+      "stock",
+      "meeting",
+      "salary"
+    ],
+    "answer": 1,
+    "category": "어휘·숙어",
+    "explanation": "out of stock은 품절이라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "office는 사무실이야.",
+      "stock은 재고를 뜻해.",
+      "meeting은 회의야.",
+      "salary는 급여야."
+    ]
+  },
+  {
+    "id": 225,
+    "question": "The keyboard is currently out of _____.",
+    "options": [
+      "office",
+      "meeting",
+      "salary",
+      "stock"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "out of stock은 품절이라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "office는 사무실이야.",
+      "meeting은 회의야.",
+      "salary는 급여야.",
+      "stock은 재고를 뜻해."
+    ]
+  },
+  {
+    "id": 226,
+    "question": "The notice will be _____ to all employees.",
+    "options": [
+      "recruited",
+      "distributed",
+      "reserved",
+      "purchased"
+    ],
+    "answer": 1,
+    "category": "어휘·숙어",
+    "explanation": "직원들에게 공지·자료를 배포한다는 뜻이야.",
+    "translation": "",
+    "optionExplanations": [
+      "recruited는 채용되다야.",
+      "distributed는 배포되다야.",
+      "reserved는 예약되다야.",
+      "purchased는 구매되다야."
+    ]
+  },
+  {
+    "id": 227,
+    "question": "The memo will be _____ to all employees.",
+    "options": [
+      "purchased",
+      "reserved",
+      "recruited",
+      "distributed"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "직원들에게 공지·자료를 배포한다는 뜻이야.",
+    "translation": "",
+    "optionExplanations": [
+      "purchased는 구매되다야.",
+      "reserved는 예약되다야.",
+      "recruited는 채용되다야.",
+      "distributed는 배포되다야."
+    ]
+  },
+  {
+    "id": 228,
+    "question": "The update will be _____ to all employees.",
+    "options": [
+      "distributed",
+      "reserved",
+      "purchased",
+      "recruited"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "직원들에게 공지·자료를 배포한다는 뜻이야.",
+    "translation": "",
+    "optionExplanations": [
+      "distributed는 배포되다야.",
+      "reserved는 예약되다야.",
+      "purchased는 구매되다야.",
+      "recruited는 채용되다야."
+    ]
+  },
+  {
+    "id": 229,
+    "question": "The announcement will be _____ to all employees.",
+    "options": [
+      "distributed",
+      "recruited",
+      "reserved",
+      "purchased"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "직원들에게 공지·자료를 배포한다는 뜻이야.",
+    "translation": "",
+    "optionExplanations": [
+      "distributed는 배포되다야.",
+      "recruited는 채용되다야.",
+      "reserved는 예약되다야.",
+      "purchased는 구매되다야."
+    ]
+  },
+  {
+    "id": 230,
+    "question": "The guideline will be _____ to all employees.",
+    "options": [
+      "reserved",
+      "distributed",
+      "recruited",
+      "purchased"
+    ],
+    "answer": 1,
+    "category": "어휘·숙어",
+    "explanation": "직원들에게 공지·자료를 배포한다는 뜻이야.",
+    "translation": "",
+    "optionExplanations": [
+      "reserved는 예약되다야.",
+      "distributed는 배포되다야.",
+      "recruited는 채용되다야.",
+      "purchased는 구매되다야."
+    ]
+  },
+  {
+    "id": 231,
+    "question": "The supplier must comply _____ company regulations.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "on"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "comply with는 규정을 준수하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "to는 comply의 고정 전치사가 아니야.",
+      "for는 맞지 않아.",
+      "with가 comply와 함께 쓰이는 전치사야.",
+      "on도 맞지 않아."
+    ]
+  },
+  {
+    "id": 232,
+    "question": "The contractor must comply _____ company regulations.",
+    "options": [
+      "with",
+      "for",
+      "to",
+      "on"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "comply with는 규정을 준수하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "with가 comply와 함께 쓰이는 전치사야.",
+      "for는 맞지 않아.",
+      "to는 comply의 고정 전치사가 아니야.",
+      "on도 맞지 않아."
+    ]
+  },
+  {
+    "id": 233,
+    "question": "The employee must comply _____ company regulations.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "on"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "comply with는 규정을 준수하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "to는 comply의 고정 전치사가 아니야.",
+      "for는 맞지 않아.",
+      "with가 comply와 함께 쓰이는 전치사야.",
+      "on도 맞지 않아."
+    ]
+  },
+  {
+    "id": 234,
+    "question": "The vendor must comply _____ company regulations.",
+    "options": [
+      "with",
+      "to",
+      "on",
+      "for"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "comply with는 규정을 준수하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "with가 comply와 함께 쓰이는 전치사야.",
+      "to는 comply의 고정 전치사가 아니야.",
+      "on도 맞지 않아.",
+      "for는 맞지 않아."
+    ]
+  },
+  {
+    "id": 235,
+    "question": "The consultant must comply _____ company regulations.",
+    "options": [
+      "on",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "comply with는 규정을 준수하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "on도 맞지 않아.",
+      "for는 맞지 않아.",
+      "to는 comply의 고정 전치사가 아니야.",
+      "with가 comply와 함께 쓰이는 전치사야."
+    ]
+  },
+  {
+    "id": 236,
+    "question": "The sales figures exceeded our _____.",
+    "options": [
+      "invitations",
+      "directions",
+      "locations",
+      "expectations"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "예상을 뛰어넘다는 exceed expectations야.",
+    "translation": "",
+    "optionExplanations": [
+      "invitations는 초대장이야.",
+      "directions는 방향·지시야.",
+      "locations는 장소야.",
+      "expectations는 기대치야."
+    ]
+  },
+  {
+    "id": 237,
+    "question": "The survey results exceeded our _____.",
+    "options": [
+      "locations",
+      "invitations",
+      "expectations",
+      "directions"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "예상을 뛰어넘다는 exceed expectations야.",
+    "translation": "",
+    "optionExplanations": [
+      "locations는 장소야.",
+      "invitations는 초대장이야.",
+      "expectations는 기대치야.",
+      "directions는 방향·지시야."
+    ]
+  },
+  {
+    "id": 238,
+    "question": "The revenue exceeded our _____.",
+    "options": [
+      "expectations",
+      "directions",
+      "locations",
+      "invitations"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "예상을 뛰어넘다는 exceed expectations야.",
+    "translation": "",
+    "optionExplanations": [
+      "expectations는 기대치야.",
+      "directions는 방향·지시야.",
+      "locations는 장소야.",
+      "invitations는 초대장이야."
+    ]
+  },
+  {
+    "id": 239,
+    "question": "The attendance exceeded our _____.",
+    "options": [
+      "expectations",
+      "directions",
+      "invitations",
+      "locations"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "예상을 뛰어넘다는 exceed expectations야.",
+    "translation": "",
+    "optionExplanations": [
+      "expectations는 기대치야.",
+      "directions는 방향·지시야.",
+      "invitations는 초대장이야.",
+      "locations는 장소야."
+    ]
+  },
+  {
+    "id": 240,
+    "question": "The performance exceeded our _____.",
+    "options": [
+      "directions",
+      "locations",
+      "expectations",
+      "invitations"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "예상을 뛰어넘다는 exceed expectations야.",
+    "translation": "",
+    "optionExplanations": [
+      "directions는 방향·지시야.",
+      "locations는 장소야.",
+      "expectations는 기대치야.",
+      "invitations는 초대장이야."
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Please keep the client _____ of the changes.",
+    "options": [
+      "installed",
+      "delayed",
+      "employed",
+      "informed"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "keep someone informed는 계속 알리다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "installed는 설치된 상태야.",
+      "delayed는 지연된 상태야.",
+      "employed는 고용된 상태야.",
+      "informed는 정보를 전달받은 상태야."
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Please keep the manager _____ of the changes.",
+    "options": [
+      "informed",
+      "delayed",
+      "installed",
+      "employed"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "keep someone informed는 계속 알리다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "informed는 정보를 전달받은 상태야.",
+      "delayed는 지연된 상태야.",
+      "installed는 설치된 상태야.",
+      "employed는 고용된 상태야."
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Please keep the director _____ of the changes.",
+    "options": [
+      "delayed",
+      "informed",
+      "employed",
+      "installed"
+    ],
+    "answer": 1,
+    "category": "어휘·숙어",
+    "explanation": "keep someone informed는 계속 알리다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "delayed는 지연된 상태야.",
+      "informed는 정보를 전달받은 상태야.",
+      "employed는 고용된 상태야.",
+      "installed는 설치된 상태야."
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Please keep the team _____ of the changes.",
+    "options": [
+      "installed",
+      "employed",
+      "informed",
+      "delayed"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "keep someone informed는 계속 알리다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "installed는 설치된 상태야.",
+      "employed는 고용된 상태야.",
+      "informed는 정보를 전달받은 상태야.",
+      "delayed는 지연된 상태야."
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Please keep the supervisor _____ of the changes.",
+    "options": [
+      "delayed",
+      "employed",
+      "informed",
+      "installed"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "keep someone informed는 계속 알리다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "delayed는 지연된 상태야.",
+      "employed는 고용된 상태야.",
+      "informed는 정보를 전달받은 상태야.",
+      "installed는 설치된 상태야."
+    ]
+  },
+  {
+    "id": 246,
+    "question": "The customer is eligible _____ a discount.",
+    "options": [
+      "with",
+      "at",
+      "for",
+      "by"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "be eligible for는 ~을 받을 자격이 있다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "with는 고정 표현이 아니야.",
+      "at은 고정 표현이 아니야.",
+      "for가 eligible과 결합해 혜택의 대상을 나타내.",
+      "by는 고정 표현이 아니야."
+    ]
+  },
+  {
+    "id": 247,
+    "question": "The subscriber is eligible _____ a discount.",
+    "options": [
+      "with",
+      "for",
+      "by",
+      "at"
+    ],
+    "answer": 1,
+    "category": "어휘·숙어",
+    "explanation": "be eligible for는 ~을 받을 자격이 있다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "with는 고정 표현이 아니야.",
+      "for가 eligible과 결합해 혜택의 대상을 나타내.",
+      "by는 고정 표현이 아니야.",
+      "at은 고정 표현이 아니야."
+    ]
+  },
+  {
+    "id": 248,
+    "question": "The member is eligible _____ a discount.",
+    "options": [
+      "with",
+      "by",
+      "for",
+      "at"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "be eligible for는 ~을 받을 자격이 있다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "with는 고정 표현이 아니야.",
+      "by는 고정 표현이 아니야.",
+      "for가 eligible과 결합해 혜택의 대상을 나타내.",
+      "at은 고정 표현이 아니야."
+    ]
+  },
+  {
+    "id": 249,
+    "question": "The applicant is eligible _____ a discount.",
+    "options": [
+      "for",
+      "with",
+      "at",
+      "by"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "be eligible for는 ~을 받을 자격이 있다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "for가 eligible과 결합해 혜택의 대상을 나타내.",
+      "with는 고정 표현이 아니야.",
+      "at은 고정 표현이 아니야.",
+      "by는 고정 표현이 아니야."
+    ]
+  },
+  {
+    "id": 250,
+    "question": "The participant is eligible _____ a discount.",
+    "options": [
+      "at",
+      "with",
+      "by",
+      "for"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "be eligible for는 ~을 받을 자격이 있다라는 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "at은 고정 표현이 아니야.",
+      "with는 고정 표현이 아니야.",
+      "by는 고정 표현이 아니야.",
+      "for가 eligible과 결합해 혜택의 대상을 나타내."
+    ]
+  },
+  {
+    "id": 251,
+    "question": "The new policy will take _____ next Monday.",
+    "options": [
+      "effective",
+      "effectively",
+      "effect",
+      "affect"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "take effect는 효력이 발생하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "effective는 형용사야.",
+      "effectively는 부사야.",
+      "effect는 이 표현에서 명사로 쓰여.",
+      "affect는 영향을 미치다라는 동사야."
+    ]
+  },
+  {
+    "id": 252,
+    "question": "The updated rule will take _____ next Monday.",
+    "options": [
+      "effect",
+      "effective",
+      "effectively",
+      "affect"
+    ],
+    "answer": 0,
+    "category": "어휘·숙어",
+    "explanation": "take effect는 효력이 발생하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "effect는 이 표현에서 명사로 쓰여.",
+      "effective는 형용사야.",
+      "effectively는 부사야.",
+      "affect는 영향을 미치다라는 동사야."
+    ]
+  },
+  {
+    "id": 253,
+    "question": "The revised schedule will take _____ next Monday.",
+    "options": [
+      "effective",
+      "affect",
+      "effect",
+      "effectively"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "take effect는 효력이 발생하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "effective는 형용사야.",
+      "affect는 영향을 미치다라는 동사야.",
+      "effect는 이 표현에서 명사로 쓰여.",
+      "effectively는 부사야."
+    ]
+  },
+  {
+    "id": 254,
+    "question": "The contract will take _____ next Monday.",
+    "options": [
+      "effective",
+      "effectively",
+      "effect",
+      "affect"
+    ],
+    "answer": 2,
+    "category": "어휘·숙어",
+    "explanation": "take effect는 효력이 발생하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "effective는 형용사야.",
+      "effectively는 부사야.",
+      "effect는 이 표현에서 명사로 쓰여.",
+      "affect는 영향을 미치다라는 동사야."
+    ]
+  },
+  {
+    "id": 255,
+    "question": "The agreement will take _____ next Monday.",
+    "options": [
+      "effectively",
+      "affect",
+      "effective",
+      "effect"
+    ],
+    "answer": 3,
+    "category": "어휘·숙어",
+    "explanation": "take effect는 효력이 발생하다라는 고정 표현이야.",
+    "translation": "",
+    "optionExplanations": [
+      "effectively는 부사야.",
+      "affect는 영향을 미치다라는 동사야.",
+      "effective는 형용사야.",
+      "effect는 이 표현에서 명사로 쓰여."
+    ]
+  },
+  {
+    "id": 256,
+    "question": "The printer is _____ than the previous model.",
+    "options": [
+      "most efficient",
+      "efficient",
+      "more efficient",
+      "efficiency"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "than이 있으므로 비교급이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "most efficient는 최상급 형태야.",
+      "efficient는 원급이야.",
+      "more efficient는 비교급이야.",
+      "efficiency는 명사야."
+    ]
+  },
+  {
+    "id": 257,
+    "question": "The scanner is _____ than the previous model.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "most efficient",
+      "more efficient"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "than이 있으므로 비교급이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "efficiency는 명사야.",
+      "efficient는 원급이야.",
+      "most efficient는 최상급 형태야.",
+      "more efficient는 비교급이야."
+    ]
+  },
+  {
+    "id": 258,
+    "question": "The laptop is _____ than the previous model.",
+    "options": [
+      "efficient",
+      "more efficient",
+      "most efficient",
+      "efficiency"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "than이 있으므로 비교급이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "efficient는 원급이야.",
+      "more efficient는 비교급이야.",
+      "most efficient는 최상급 형태야.",
+      "efficiency는 명사야."
+    ]
+  },
+  {
+    "id": 259,
+    "question": "The device is _____ than the previous model.",
+    "options": [
+      "efficient",
+      "efficiency",
+      "more efficient",
+      "most efficient"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "than이 있으므로 비교급이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "efficient는 원급이야.",
+      "efficiency는 명사야.",
+      "more efficient는 비교급이야.",
+      "most efficient는 최상급 형태야."
+    ]
+  },
+  {
+    "id": 260,
+    "question": "The machine is _____ than the previous model.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "more efficient",
+      "most efficient"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "than이 있으므로 비교급이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "efficiency는 명사야.",
+      "efficient는 원급이야.",
+      "more efficient는 비교급이야.",
+      "most efficient는 최상급 형태야."
+    ]
+  },
+  {
+    "id": 261,
+    "question": "The report _____ yesterday is now available online.",
+    "options": [
+      "submitting",
+      "submitted",
+      "submit",
+      "submission"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "명사가 제출된 대상이므로 과거분사로 수식해.",
+    "translation": "",
+    "optionExplanations": [
+      "submitting은 능동 의미의 현재분사야.",
+      "submitted는 수동 의미의 과거분사야.",
+      "submit은 동사원형이야.",
+      "submission은 명사야."
+    ]
+  },
+  {
+    "id": 262,
+    "question": "The document _____ yesterday is now available online.",
+    "options": [
+      "submitted",
+      "submission",
+      "submit",
+      "submitting"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "명사가 제출된 대상이므로 과거분사로 수식해.",
+    "translation": "",
+    "optionExplanations": [
+      "submitted는 수동 의미의 과거분사야.",
+      "submission은 명사야.",
+      "submit은 동사원형이야.",
+      "submitting은 능동 의미의 현재분사야."
+    ]
+  },
+  {
+    "id": 263,
+    "question": "The schedule _____ yesterday is now available online.",
+    "options": [
+      "submitted",
+      "submission",
+      "submitting",
+      "submit"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "명사가 제출된 대상이므로 과거분사로 수식해.",
+    "translation": "",
+    "optionExplanations": [
+      "submitted는 수동 의미의 과거분사야.",
+      "submission은 명사야.",
+      "submitting은 능동 의미의 현재분사야.",
+      "submit은 동사원형이야."
+    ]
+  },
+  {
+    "id": 264,
+    "question": "The proposal _____ yesterday is now available online.",
+    "options": [
+      "submitting",
+      "submission",
+      "submit",
+      "submitted"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "명사가 제출된 대상이므로 과거분사로 수식해.",
+    "translation": "",
+    "optionExplanations": [
+      "submitting은 능동 의미의 현재분사야.",
+      "submission은 명사야.",
+      "submit은 동사원형이야.",
+      "submitted는 수동 의미의 과거분사야."
+    ]
+  },
+  {
+    "id": 265,
+    "question": "The manual _____ yesterday is now available online.",
+    "options": [
+      "submitting",
+      "submitted",
+      "submit",
+      "submission"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "명사가 제출된 대상이므로 과거분사로 수식해.",
+    "translation": "",
+    "optionExplanations": [
+      "submitting은 능동 의미의 현재분사야.",
+      "submitted는 수동 의미의 과거분사야.",
+      "submit은 동사원형이야.",
+      "submission은 명사야."
+    ]
+  },
+  {
+    "id": 266,
+    "question": "_____ employee must complete the training.",
+    "options": [
+      "Each",
+      "Few",
+      "Several",
+      "Many"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "단수명사 employee와 단수동사 must에 앞선 한정사는 each가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "Each는 단수명사와 결합해 각각을 뜻해.",
+      "Few 뒤에는 복수명사가 필요해.",
+      "Several 뒤에는 복수명사가 필요해.",
+      "Many 뒤에는 복수명사가 필요해."
+    ]
+  },
+  {
+    "id": 267,
+    "question": "_____ employee must complete the survey.",
+    "options": [
+      "Many",
+      "Few",
+      "Several",
+      "Each"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "단수명사 employee와 단수동사 must에 앞선 한정사는 each가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "Many 뒤에는 복수명사가 필요해.",
+      "Few 뒤에는 복수명사가 필요해.",
+      "Several 뒤에는 복수명사가 필요해.",
+      "Each는 단수명사와 결합해 각각을 뜻해."
+    ]
+  },
+  {
+    "id": 268,
+    "question": "_____ employee must complete the form.",
+    "options": [
+      "Few",
+      "Several",
+      "Many",
+      "Each"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "단수명사 employee와 단수동사 must에 앞선 한정사는 each가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "Few 뒤에는 복수명사가 필요해.",
+      "Several 뒤에는 복수명사가 필요해.",
+      "Many 뒤에는 복수명사가 필요해.",
+      "Each는 단수명사와 결합해 각각을 뜻해."
+    ]
+  },
+  {
+    "id": 269,
+    "question": "_____ employee must complete the assessment.",
+    "options": [
+      "Few",
+      "Many",
+      "Each",
+      "Several"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "단수명사 employee와 단수동사 must에 앞선 한정사는 each가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "Few 뒤에는 복수명사가 필요해.",
+      "Many 뒤에는 복수명사가 필요해.",
+      "Each는 단수명사와 결합해 각각을 뜻해.",
+      "Several 뒤에는 복수명사가 필요해."
+    ]
+  },
+  {
+    "id": 270,
+    "question": "_____ employee must complete the orientation.",
+    "options": [
+      "Many",
+      "Each",
+      "Several",
+      "Few"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "단수명사 employee와 단수동사 must에 앞선 한정사는 each가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "Many 뒤에는 복수명사가 필요해.",
+      "Each는 단수명사와 결합해 각각을 뜻해.",
+      "Several 뒤에는 복수명사가 필요해.",
+      "Few 뒤에는 복수명사가 필요해."
+    ]
+  },
+  {
+    "id": 271,
+    "question": "The guide contains _____ useful information.",
+    "options": [
+      "a few",
+      "much",
+      "several",
+      "many"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "information은 불가산명사이므로 much가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "a few는 복수 가산명사와 써.",
+      "much는 불가산명사와 써.",
+      "several은 복수 가산명사와 써.",
+      "many는 복수 가산명사와 써."
+    ]
+  },
+  {
+    "id": 272,
+    "question": "The brochure contains _____ useful information.",
+    "options": [
+      "several",
+      "many",
+      "much",
+      "a few"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "information은 불가산명사이므로 much가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "several은 복수 가산명사와 써.",
+      "many는 복수 가산명사와 써.",
+      "much는 불가산명사와 써.",
+      "a few는 복수 가산명사와 써."
+    ]
+  },
+  {
+    "id": 273,
+    "question": "The manual contains _____ useful information.",
+    "options": [
+      "much",
+      "many",
+      "a few",
+      "several"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "information은 불가산명사이므로 much가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "much는 불가산명사와 써.",
+      "many는 복수 가산명사와 써.",
+      "a few는 복수 가산명사와 써.",
+      "several은 복수 가산명사와 써."
+    ]
+  },
+  {
+    "id": 274,
+    "question": "The website contains _____ useful information.",
+    "options": [
+      "several",
+      "much",
+      "a few",
+      "many"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "information은 불가산명사이므로 much가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "several은 복수 가산명사와 써.",
+      "much는 불가산명사와 써.",
+      "a few는 복수 가산명사와 써.",
+      "many는 복수 가산명사와 써."
+    ]
+  },
+  {
+    "id": 275,
+    "question": "The report contains _____ useful information.",
+    "options": [
+      "much",
+      "a few",
+      "several",
+      "many"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "information은 불가산명사이므로 much가 맞아.",
+    "translation": "",
+    "optionExplanations": [
+      "much는 불가산명사와 써.",
+      "a few는 복수 가산명사와 써.",
+      "several은 복수 가산명사와 써.",
+      "many는 복수 가산명사와 써."
+    ]
+  },
+  {
+    "id": 276,
+    "question": "The hotel is one of the _____ in the region.",
+    "options": [
+      "largest",
+      "large",
+      "largely",
+      "larger"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "one of the + 최상급 + 복수명사 구조가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "largest는 최상급이야.",
+      "large는 원급이야.",
+      "largely는 부사야.",
+      "larger는 비교급이야."
+    ]
+  },
+  {
+    "id": 277,
+    "question": "The restaurant is one of the _____ in the region.",
+    "options": [
+      "large",
+      "largest",
+      "largely",
+      "larger"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "one of the + 최상급 + 복수명사 구조가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "large는 원급이야.",
+      "largest는 최상급이야.",
+      "largely는 부사야.",
+      "larger는 비교급이야."
+    ]
+  },
+  {
+    "id": 278,
+    "question": "The company is one of the _____ in the region.",
+    "options": [
+      "large",
+      "largest",
+      "larger",
+      "largely"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "one of the + 최상급 + 복수명사 구조가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "large는 원급이야.",
+      "largest는 최상급이야.",
+      "larger는 비교급이야.",
+      "largely는 부사야."
+    ]
+  },
+  {
+    "id": 279,
+    "question": "The agency is one of the _____ in the region.",
+    "options": [
+      "largest",
+      "larger",
+      "largely",
+      "large"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "one of the + 최상급 + 복수명사 구조가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "largest는 최상급이야.",
+      "larger는 비교급이야.",
+      "largely는 부사야.",
+      "large는 원급이야."
+    ]
+  },
+  {
+    "id": 280,
+    "question": "The store is one of the _____ in the region.",
+    "options": [
+      "larger",
+      "largely",
+      "large",
+      "largest"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "one of the + 최상급 + 복수명사 구조가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "larger는 비교급이야.",
+      "largely는 부사야.",
+      "large는 원급이야.",
+      "largest는 최상급이야."
+    ]
+  },
+  {
+    "id": 281,
+    "question": "The device must be returned to _____ original location.",
+    "options": [
+      "it’s",
+      "its",
+      "itself",
+      "it"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "location을 꾸미는 소유격 its가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "it’s는 it is의 축약형이야.",
+      "its는 소유격이야.",
+      "itself는 재귀대명사야.",
+      "it은 주격·목적격 대명사야."
+    ]
+  },
+  {
+    "id": 282,
+    "question": "The equipment must be returned to _____ original location.",
+    "options": [
+      "it’s",
+      "it",
+      "itself",
+      "its"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "location을 꾸미는 소유격 its가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "it’s는 it is의 축약형이야.",
+      "it은 주격·목적격 대명사야.",
+      "itself는 재귀대명사야.",
+      "its는 소유격이야."
+    ]
+  },
+  {
+    "id": 283,
+    "question": "The folder must be returned to _____ original location.",
+    "options": [
+      "it’s",
+      "itself",
+      "it",
+      "its"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "location을 꾸미는 소유격 its가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "it’s는 it is의 축약형이야.",
+      "itself는 재귀대명사야.",
+      "it은 주격·목적격 대명사야.",
+      "its는 소유격이야."
+    ]
+  },
+  {
+    "id": 284,
+    "question": "The document must be returned to _____ original location.",
+    "options": [
+      "its",
+      "it",
+      "itself",
+      "it’s"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "location을 꾸미는 소유격 its가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "its는 소유격이야.",
+      "it은 주격·목적격 대명사야.",
+      "itself는 재귀대명사야.",
+      "it’s는 it is의 축약형이야."
+    ]
+  },
+  {
+    "id": 285,
+    "question": "The package must be returned to _____ original location.",
+    "options": [
+      "itself",
+      "it",
+      "it’s",
+      "its"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "location을 꾸미는 소유격 its가 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "itself는 재귀대명사야.",
+      "it은 주격·목적격 대명사야.",
+      "it’s는 it is의 축약형이야.",
+      "its는 소유격이야."
+    ]
+  },
+  {
+    "id": 286,
+    "question": "The sales manager, _____ joined last month, will lead the meeting.",
+    "options": [
+      "whose",
+      "whom",
+      "which",
+      "who"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "사람이 주어 역할을 하는 관계대명사는 who야.",
+    "translation": "",
+    "optionExplanations": [
+      "whose는 소유격이야.",
+      "whom은 목적격이야.",
+      "which는 사물이 선행사일 때 써.",
+      "who는 사람을 가리키는 주격 관계대명사야."
+    ]
+  },
+  {
+    "id": 287,
+    "question": "The finance manager, _____ joined last month, will lead the meeting.",
+    "options": [
+      "whose",
+      "which",
+      "whom",
+      "who"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "사람이 주어 역할을 하는 관계대명사는 who야.",
+    "translation": "",
+    "optionExplanations": [
+      "whose는 소유격이야.",
+      "which는 사물이 선행사일 때 써.",
+      "whom은 목적격이야.",
+      "who는 사람을 가리키는 주격 관계대명사야."
+    ]
+  },
+  {
+    "id": 288,
+    "question": "The marketing manager, _____ joined last month, will lead the meeting.",
+    "options": [
+      "whose",
+      "which",
+      "who",
+      "whom"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "사람이 주어 역할을 하는 관계대명사는 who야.",
+    "translation": "",
+    "optionExplanations": [
+      "whose는 소유격이야.",
+      "which는 사물이 선행사일 때 써.",
+      "who는 사람을 가리키는 주격 관계대명사야.",
+      "whom은 목적격이야."
+    ]
+  },
+  {
+    "id": 289,
+    "question": "The operations manager, _____ joined last month, will lead the meeting.",
+    "options": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "사람이 주어 역할을 하는 관계대명사는 who야.",
+    "translation": "",
+    "optionExplanations": [
+      "whom은 목적격이야.",
+      "who는 사람을 가리키는 주격 관계대명사야.",
+      "whose는 소유격이야.",
+      "which는 사물이 선행사일 때 써."
+    ]
+  },
+  {
+    "id": 290,
+    "question": "The regional manager, _____ joined last month, will lead the meeting.",
+    "options": [
+      "which",
+      "whom",
+      "whose",
+      "who"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "사람이 주어 역할을 하는 관계대명사는 who야.",
+    "translation": "",
+    "optionExplanations": [
+      "which는 사물이 선행사일 때 써.",
+      "whom은 목적격이야.",
+      "whose는 소유격이야.",
+      "who는 사람을 가리키는 주격 관계대명사야."
+    ]
+  },
+  {
+    "id": 291,
+    "question": "The box was too heavy _____ carry alone.",
+    "options": [
+      "at",
+      "for",
+      "with",
+      "to"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "too + 형용사 + to부정사 구조야.",
+    "translation": "",
+    "optionExplanations": [
+      "at도 부정사를 이끌지 못해.",
+      "for는 이 구조의 부정사 표시가 아니야.",
+      "with는 부정사를 이끌지 못해.",
+      "to는 부정사를 이끌어."
+    ]
+  },
+  {
+    "id": 292,
+    "question": "The package was too heavy _____ carry alone.",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "too + 형용사 + to부정사 구조야.",
+    "translation": "",
+    "optionExplanations": [
+      "for는 이 구조의 부정사 표시가 아니야.",
+      "to는 부정사를 이끌어.",
+      "at도 부정사를 이끌지 못해.",
+      "with는 부정사를 이끌지 못해."
+    ]
+  },
+  {
+    "id": 293,
+    "question": "The cabinet was too heavy _____ carry alone.",
+    "options": [
+      "at",
+      "with",
+      "to",
+      "for"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "too + 형용사 + to부정사 구조야.",
+    "translation": "",
+    "optionExplanations": [
+      "at도 부정사를 이끌지 못해.",
+      "with는 부정사를 이끌지 못해.",
+      "to는 부정사를 이끌어.",
+      "for는 이 구조의 부정사 표시가 아니야."
+    ]
+  },
+  {
+    "id": 294,
+    "question": "The machine was too heavy _____ carry alone.",
+    "options": [
+      "for",
+      "at",
+      "to",
+      "with"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "too + 형용사 + to부정사 구조야.",
+    "translation": "",
+    "optionExplanations": [
+      "for는 이 구조의 부정사 표시가 아니야.",
+      "at도 부정사를 이끌지 못해.",
+      "to는 부정사를 이끌어.",
+      "with는 부정사를 이끌지 못해."
+    ]
+  },
+  {
+    "id": 295,
+    "question": "The container was too heavy _____ carry alone.",
+    "options": [
+      "to",
+      "at",
+      "with",
+      "for"
+    ],
+    "answer": 0,
+    "category": "기타 문법",
+    "explanation": "too + 형용사 + to부정사 구조야.",
+    "translation": "",
+    "optionExplanations": [
+      "to는 부정사를 이끌어.",
+      "at도 부정사를 이끌지 못해.",
+      "with는 부정사를 이끌지 못해.",
+      "for는 이 구조의 부정사 표시가 아니야."
+    ]
+  },
+  {
+    "id": 296,
+    "question": "The discount will be available to _____ who registers early.",
+    "options": [
+      "many",
+      "anyone",
+      "few",
+      "several"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "who registers의 단수 동사와 어울리는 대명사 anyone이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "many는 복수 의미야.",
+      "anyone은 누구든 한 사람을 뜻하는 단수 대명사야.",
+      "few는 복수 의미야.",
+      "several은 복수 의미야."
+    ]
+  },
+  {
+    "id": 297,
+    "question": "The voucher will be available to _____ who registers early.",
+    "options": [
+      "several",
+      "many",
+      "few",
+      "anyone"
+    ],
+    "answer": 3,
+    "category": "기타 문법",
+    "explanation": "who registers의 단수 동사와 어울리는 대명사 anyone이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "several은 복수 의미야.",
+      "many는 복수 의미야.",
+      "few는 복수 의미야.",
+      "anyone은 누구든 한 사람을 뜻하는 단수 대명사야."
+    ]
+  },
+  {
+    "id": 298,
+    "question": "The seat will be available to _____ who registers early.",
+    "options": [
+      "several",
+      "anyone",
+      "many",
+      "few"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "who registers의 단수 동사와 어울리는 대명사 anyone이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "several은 복수 의미야.",
+      "anyone은 누구든 한 사람을 뜻하는 단수 대명사야.",
+      "many는 복수 의미야.",
+      "few는 복수 의미야."
+    ]
+  },
+  {
+    "id": 299,
+    "question": "The material will be available to _____ who registers early.",
+    "options": [
+      "few",
+      "anyone",
+      "several",
+      "many"
+    ],
+    "answer": 1,
+    "category": "기타 문법",
+    "explanation": "who registers의 단수 동사와 어울리는 대명사 anyone이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "few는 복수 의미야.",
+      "anyone은 누구든 한 사람을 뜻하는 단수 대명사야.",
+      "several은 복수 의미야.",
+      "many는 복수 의미야."
+    ]
+  },
+  {
+    "id": 300,
+    "question": "The service will be available to _____ who registers early.",
+    "options": [
+      "several",
+      "few",
+      "anyone",
+      "many"
+    ],
+    "answer": 2,
+    "category": "기타 문법",
+    "explanation": "who registers의 단수 동사와 어울리는 대명사 anyone이 필요해.",
+    "translation": "",
+    "optionExplanations": [
+      "several은 복수 의미야.",
+      "few는 복수 의미야.",
+      "anyone은 누구든 한 사람을 뜻하는 단수 대명사야.",
+      "many는 복수 의미야."
+    ]
+  }
+]
